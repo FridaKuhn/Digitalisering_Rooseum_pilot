@@ -12,7 +12,16 @@
             <author></author>
             <editor></editor>
             <principal></principal>
+            <respStmt>
+               <resp>responsibility) contains a phrase describing the nature of a person's intellectual responsibility, or an organization's role in the production or distribution of a work</resp>
+               <name>Våra namn?</name>
+            </respStmt>
          </titleStmt>
+        <editionStmt>
+           <edition>
+              <date>2024 (Jag tror det ska stå vårt år här?)</date>
+           </edition>
+        </editionStmt>
          <publicationStmt>
             <p>Publication information</p>
          </publicationStmt>
@@ -25,10 +34,29 @@
          </sourceDesc>
       </fileDesc>
      
-      <encodingDesc><p></p></encodingDesc>
+      <encodingDesc>
+         <samplingDecl>
+            <p>Här lite info om hur vi formaterat saker. </p>
+            <p>ex från TEI guidelines: "Blank lines and multiple blank spaces, including paragraph
+               indents, have not been preserved." </p>
+         </samplingDecl>
+         <editorialDecl>
+            <p>
+               INTE SÄKER PÅ VAD SOM SKA IN HÄR
+            </p>
+         </editorialDecl>
+      </encodingDesc>
+     
      
       <profileDesc>
          <langUsage><language ident="SWE"></language></langUsage>
+         <textClass>
+            <keywords scheme="#lcsh">
+               <term>keyword example</term>
+               <term>keyword example</term>
+            </keywords>
+            <classCode scheme="#lc">JC 177</classCode>
+         </textClass>
       </profileDesc>
      <revisionDesc><change></change></revisionDesc>
   
