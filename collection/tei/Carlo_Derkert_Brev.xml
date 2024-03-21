@@ -4,7 +4,8 @@
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-      <fileDesc>
+      
+     <fileDesc>
          <titleStmt>
             <title>Title
             </title>
@@ -23,8 +24,17 @@
             <p>Information about the source</p>
          </sourceDesc>
       </fileDesc>
+     
+      <encodingDesc><p></p></encodingDesc>
+     
+      <profileDesc>
+         <langUsage><language ident="SWE"></language></langUsage>
+      </profileDesc>
+     <revisionDesc><change></change></revisionDesc>
+  
   </teiHeader>
-  <text>
+  
+   <text>
       <body>
          <p>Some text here.</p>
          <figure>
