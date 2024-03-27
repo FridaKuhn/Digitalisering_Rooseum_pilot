@@ -7,22 +7,38 @@
 
       <fileDesc>
          <titleStmt>
-            <title>Title </title>
-            <author/>
-            <editor/>
-            <principal/>
+            <title>En elektronisk transkribering av ett brev från <name xml:id="CD">Carlo Derkert</name> till 
+               <name xml:id="OG">Olle Granath</name> och <name xml:id="LN">Lars Nittve</name></title>
+          <author>Carlo Derkert</author>
+            <editor>
+               <name xml:id="HA">Hanna Andersson</name>
+               <name xml:id="IHK">Ingvild Hovland Kaldal</name>
+               <name xml:id="FKN">Frida Kuhn Nicolaisen</name>
+               <name xml:id="HL">Henning Lundkvist</name></editor>
+            <principal></principal>
             <respStmt>
-               <resp>responsibility) contains a phrase describing the nature of a person's
-                  intellectual responsibility, or an organization's role in the production or
-                  distribution of a work</resp>
-               <name>Våra namn?</name>
+               <name xml:id="ACB">Anton Carlander Borgström</name>
+               <resp>Handledare</resp>
+            </respStmt>
+            <respStmt>
+               <name>Henning Lundkvist</name>
+               <resp>Huvudsaklig transkribering</resp>
+            </respStmt>
+            <respStmt>
+               <name>Ingvild Hovland Kaldal</name>
+               <resp>Huvudsaklig bildredigering</resp>
             </respStmt>
          </titleStmt>
          <editionStmt>
-            <edition>
-               <date>2024 (Jag tror det ska stå vårt år här?)</date>
+            <edition n="1​.0">
+               <title>Version 1​.0.</title>
+               <date when="2024">2024</date>
+               <note>Första versionen av En elektronisk transkribering av ett brev från <name>Carlo Derkert</name> till 
+                  <name>Olle Granath</name> och <name>Lars Nittve</name>. I denna första version är endast sida XX 
+                  av brevets totala XXX sidor transkriberad och annoterad.</note>
             </edition>
          </editionStmt>
+         <extent xmlns="http://www.tei-c.org/ns/1.0">????? Kb</extent>
          <publicationStmt>
             <p>Publication information</p>
          </publicationStmt>
