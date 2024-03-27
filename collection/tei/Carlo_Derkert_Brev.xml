@@ -3,25 +3,26 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-      
-     <fileDesc>
+   <teiHeader>
+
+      <fileDesc>
          <titleStmt>
-            <title>Title
-            </title>
-            <author></author>
-            <editor></editor>
-            <principal></principal>
+            <title>Title </title>
+            <author/>
+            <editor/>
+            <principal/>
             <respStmt>
-               <resp>responsibility) contains a phrase describing the nature of a person's intellectual responsibility, or an organization's role in the production or distribution of a work</resp>
+               <resp>responsibility) contains a phrase describing the nature of a person's
+                  intellectual responsibility, or an organization's role in the production or
+                  distribution of a work</resp>
                <name>Våra namn?</name>
             </respStmt>
          </titleStmt>
-        <editionStmt>
-           <edition>
-              <date>2024 (Jag tror det ska stå vårt år här?)</date>
-           </edition>
-        </editionStmt>
+         <editionStmt>
+            <edition>
+               <date>2024 (Jag tror det ska stå vårt år här?)</date>
+            </edition>
+         </editionStmt>
          <publicationStmt>
             <p>Publication information</p>
          </publicationStmt>
@@ -33,23 +34,29 @@
             <p>Information about the source</p>
          </sourceDesc>
       </fileDesc>
-     
+
       <encodingDesc>
+         <projectDesc>
+            <p>Det här dokumentet har digitaliserats som en del av ett projekt i kursen
+               Digitalisering för bevarande och tillgänglighet som ingår i masterprogrammet i
+               biblioteks- och informationsvetenskap på Högskolan i Borås under vårterminen 2024.
+               Materialet kommer från samlingen med Stiftelsen Rooseums sparade korrespondens
+               1988-1990 (SE/MSA/01713 volym E 1:1), som finns på Stadsarkivet i Malmö.</p>
+         </projectDesc>
          <samplingDecl>
-            <p>Här lite info om hur vi formaterat saker. </p>
-            <p>ex från TEI guidelines: "Blank lines and multiple blank spaces, including paragraph
-               indents, have not been preserved." </p>
+            <p>Dokumentet (en enskild sida av ett brev på 18 handskrivna A4-sidor) valdes ut eftersom det är representativt för brevet som helhet.</p>
          </samplingDecl>
          <editorialDecl>
-            <p>
-               INTE SÄKER PÅ VAD SOM SKA IN HÄR
-            </p>
+            <p>Här ska vi beskriva hur vi har behandlat t.ex. citattecken, radbrytningar, avstavningar, segment osv. Detta får vi fylla i när vi är klara med kodningen av body.</p>
          </editorialDecl>
       </encodingDesc>
-     
-     
+
+
       <profileDesc>
-         <langUsage><language ident="SWE"></language></langUsage>
+         <creation>Brevet skrevs av Carlo Derkert, Siri Derkerts son, och skickades till Olle Granath och Lars Nittve. OBS. Utveckla.</creation>
+         <langUsage>
+            <language ident="SWE"/>
+         </langUsage>
          <textClass>
             <keywords scheme="#lcsh">
                <term>keyword example</term>
@@ -58,10 +65,15 @@
             <classCode scheme="#lc">JC 177</classCode>
          </textClass>
       </profileDesc>
-     <revisionDesc><change></change></revisionDesc>
-  
-  </teiHeader>
-  
+      
+      
+      <revisionDesc>
+         <change/>
+      </revisionDesc>
+
+
+   </teiHeader>
+
    <text>
       <body>
          <p>Some text here.</p>
@@ -69,5 +81,5 @@
             <graphic url="http://www.tei-c.org/logos/TEI-glow.png"/>
          </figure>
       </body>
-  </text>
+   </text>
 </TEI>
