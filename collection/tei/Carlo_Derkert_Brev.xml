@@ -40,11 +40,27 @@
          </editionStmt>
          <extent xmlns="http://www.tei-c.org/ns/1.0">????? Kb</extent>
          <publicationStmt>
-            <p>Publication information</p>
+            <publisher>
+               <name>Hanna Andersson???</name>
+               <name>Ingvild Hovland Kaldal???</name>
+               <name>Frida Kugn Nicolaisen???</name>
+               <name>Henning Lundkvist???</name>
+            </publisher>
+            <distributor>Bibliotekshögskolan, Högskolan i Borås ???? </distributor>
+            <pubPlace>Borås</pubPlace>
+            <address>
+               <name>Bibliotekshögskolan, Högskolan i Borås</name>
+               <addrLine>
+                  Högskolan i Borås, 501 90 Borås, Sverige
+               </addrLine>
+            </address>
+            <idno>???</idno>
+            <availability><p>???</p></availability>
+            <date>publishing date</date>
          </publicationStmt>
          <notesStmt>
-            <note>Note1</note>
-            <note>Note2</note>
+            <note>Fotografering av det fysiska brevet genomfördes på Stadsarkivet i Malmö, med hjälp av 
+               (VAD HETTE HAN IGEN?), den <date>2024-02-12</date> 12 februari 2024.</note>
          </notesStmt>
          <sourceDesc>
             <p>Information about the source</p>
