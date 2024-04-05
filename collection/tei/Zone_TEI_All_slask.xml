@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      
+      <fileDesc>
+         <titleStmt>
+            <title>En elektronisk transkribering av ett brev från <persName>Carlo Derkert</persName> till 
+               <name xml:id="OG">Olle Granath</name> och <name xml:id="LN">Lars Nittve</name></title>
+            <author>Carlo Derkert</author>
+            <editor>
+               <name xml:id="HA">Hanna Andersson</name>
+               <name xml:id="IHK">Ingvild Hovland Kaldal</name>
+               <name xml:id="FKN">Frida Kuhn Nicolaisen</name>
+               <name xml:id="HL">Henning Lundkvist</name></editor>
+            <principal></principal>
+            <respStmt>
+               <name xml:id="ACB">Anton Carlander Borgström</name>
+               <resp>Handledare</resp>
+            </respStmt>
+            <respStmt>
+               <name>Henning Lundkvist</name>
+               <resp>Huvudsaklig transkribering</resp>
+            </respStmt>
+            <respStmt>
+               <name>Ingvild Hovland Kaldal</name>
+               <resp>Huvudsaklig bildredigering</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="1​.0">
+               <title>Version 1​.0.</title>
+               <date when="2024">2024</date>
+               <note>Första versionen av En elektronisk transkribering av ett brev från <persName>Carlo Derkert</persName> till 
+                  <name>Olle Granath</name> och <name>Lars Nittve</name>. I denna första version är endast sida XX 
+                  av brevets totala XXX sidor transkriberad och annoterad.</note>
+            </edition>
+         </editionStmt>
+         <extent xmlns="http://www.tei-c.org/ns/1.0">????? Kb</extent>
+         <publicationStmt>
+            <publisher>
+               <name>Hanna Andersson???</name>
+               <name>Ingvild Hovland Kaldal???</name>
+               <name>Frida Kugn Nicolaisen???</name>
+               <name>Henning Lundkvist???</name>
+            </publisher>
+            <distributor>Bibliotekshögskolan, Högskolan i Borås ???? </distributor>
+            <pubPlace>Borås</pubPlace>
+            <address>
+               <name>Bibliotekshögskolan, Högskolan i Borås</name>
+               <addrLine>
+                  Högskolan i Borås, 501 90 Borås, Sverige
+               </addrLine>
+            </address>
+            <idno>???</idno>
+            <availability><p>???</p></availability>
+            <date>publishing date</date>
+         </publicationStmt>
+         <notesStmt>
+            <note>Fotografering av det fysiska brevet genomfördes på Stadsarkivet i Malmö, med hjälp av bildarkivarie Tobias Idberg, den <date>2024-02-12</date> 12 februari 2024.</note>
+         </notesStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+      
+      <encodingDesc>
+         <projectDesc>
+            <p>Det här dokumentet har digitaliserats som en del av ett projekt i kursen
+               Digitalisering för bevarande och tillgänglighet som ingår i masterprogrammet i
+               biblioteks- och informationsvetenskap på Högskolan i Borås under vårterminen 2024.
+               Materialet kommer från samlingen med Stiftelsen Rooseums sparade korrespondens
+               1988-1990 (SE/MSA/01713 volym E 1:1), som finns på Stadsarkivet i Malmö.</p>
+         </projectDesc>
+         <samplingDecl>
+            <p>Dokumentet (en enskild sida av ett brev på 18 handskrivna A4-sidor) valdes ut eftersom det är representativt för brevet som helhet.</p>
+         </samplingDecl>
+         <editorialDecl>
+            <p>Här ska vi beskriva hur vi har behandlat t.ex. citattecken, radbrytningar, avstavningar, segment osv. Detta får vi fylla i när vi är klara med kodningen av body.</p>
+         </editorialDecl>
+      </encodingDesc>
+      
+      
+      <profileDesc>
+         <creation>Brevet skrevs av Carlo Derkert, Siri Derkerts son, och skickades till Olle Granath och Lars Nittve. OBS. Utveckla.</creation>
+         <langUsage>
+            <language ident="SWE"/>
+         </langUsage>
+         <textClass>
+            <keywords scheme="#lcsh">
+               <term>keyword example</term>
+               <term>keyword example</term>
+            </keywords>
+            <classCode scheme="#lc">JC 177</classCode>
+         </textClass>
+         <particDesc>
+            <listPerson>
+               <person xml:id="CD">
+                  <persName>Carlo Derkert</persName>
+                  <persName>Siri Derkert</persName>
+                  <persName></persName>
+                  <persName></persName>
+                  <persName></persName>
+               </person>
+               
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+      
+      
+      <revisionDesc>
+         <change/>
+      </revisionDesc>
+      
+      
+   </teiHeader>
+   
+  <text>
+      <body>
+         <p>Some text here.</p>
+      </body>
+  </text>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="2370" lry="3307">
+         <graphic url="https://github.com/FridaKuhn/Digitalisering_Rooseum_pilot/blob/main/collection/img/Carlo_Derkert_brev_sida_11_av_18.tif"/>
+         <zone ulx="17" uly="30" lrx="306" lry="631"><!-- zone 1 --></zone>
+         <zone ulx="17" uly="631" lrx="306" lry="1887"><!-- zone 2 --></zone>
+         <zone ulx="17" uly="1887" lrx="306" lry="2321"><!-- zone 3 --></zone>
+         <zone ulx="311" uly="30" lrx="769" lry="584"><!-- zone 4 --></zone>
+        
+         <zone ulx="0" uly="0" lrx="0" lry="0"><!-- zone 5 --></zone>
+         
+      </surface>
+   </facsimile>
+</TEI>
