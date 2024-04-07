@@ -7,25 +7,28 @@
       
       <fileDesc>
          <titleStmt>
-            <title>En elektronisk transkribering av ett brev från <persName>Carlo Derkert</persName> till 
-               <name xml:id="OG">Olle Granath</name> och <name xml:id="LN">Lars Nittve</name></title>
-            <author>Carlo Derkert</author>
+            <title>En elektronisk transkribering av ett brev från <persName ref="CD">Carlo Derkert</persName> till 
+               <persName ref="OG">Olle Granath</persName> och <persName ref="LN">Lars Nittve</persName>
+            </title>
+            <author> <persName ref="CD">Carlo Derkert</persName> </author>
             <editor>
-               <name xml:id="HA">Hanna Andersson</name>
-               <name xml:id="IHK">Ingvild Hovland Kaldal</name>
-               <name xml:id="FKN">Frida Kuhn Nicolaisen</name>
-               <name xml:id="HL">Henning Lundkvist</name></editor>
+               <persName>Hanna Andersson</persName>
+               <persName>Ingvild Hovland Kaldal</persName>
+               <persName>Frida Kuhn Nicolaisen</persName>
+               <persName>Henning Lundkvist</persName>
+               <!-- Lidt usikker på ovenstående nametags - skal der defineres en URI for os også og i så fald hvor -->
+            </editor>
             <principal></principal>
             <respStmt>
                <name xml:id="ACB">Anton Carlander Borgström</name>
                <resp>Handledare</resp>
             </respStmt>
             <respStmt>
-               <name>Henning Lundkvist</name>
+               <persName>Henning Lundkvist</persName>
                <resp>Huvudsaklig transkribering</resp>
             </respStmt>
             <respStmt>
-               <name>Ingvild Hovland Kaldal</name>
+               <persName>Ingvild Hovland Kaldal</persName>
                <resp>Huvudsaklig bildredigering</resp>
             </respStmt>
          </titleStmt>
@@ -34,22 +37,24 @@
                <title>Version 1​.0.</title>
                <date when="2024">2024</date>
                <note>Första versionen av En elektronisk transkribering av ett brev från <persName>Carlo Derkert</persName> till 
-                  <name>Olle Granath</name> och <name>Lars Nittve</name>. I denna första version är endast sida XX 
+                  <persName ref="OG">Olle Granath</persName> och <persName ref="LN">Lars Nittve</persName>. I denna första version är endast sida XX 
                   av brevets totala XXX sidor transkriberad och annoterad.</note>
+               <!-- Husk at tilføje sidetal -->
             </edition>
          </editionStmt>
          <extent xmlns="http://www.tei-c.org/ns/1.0">????? Kb</extent>
          <publicationStmt>
             <publisher>
-               <name>Hanna Andersson???</name>
-               <name>Ingvild Hovland Kaldal???</name>
-               <name>Frida Kugn Nicolaisen???</name>
-               <name>Henning Lundkvist???</name>
+               <persName>Hanna Andersson???</persName>
+               <persName>Ingvild Hovland Kaldal???</persName>
+               <persName>Frida Kugn Nicolaisen???</persName>
+               <persName>Henning Lundkvist???</persName>
             </publisher>
             <distributor>Bibliotekshögskolan, Högskolan i Borås ???? </distributor>
             <pubPlace>Borås</pubPlace>
             <address>
                <name>Bibliotekshögskolan, Högskolan i Borås</name>
+               <!-- herover skal vi nok bruge noget a la orgName -->
                <addrLine>
                   Högskolan i Borås, 501 90 Borås, Sverige
                </addrLine>
@@ -99,12 +104,46 @@
             <listPerson>
                <person xml:id="CD">
                   <persName>Carlo Derkert</persName>
-                  <persName>Siri Derkert</persName>
-                  <persName></persName>
-                  <persName></persName>
-                  <persName></persName>
+                  <birth>
+                     <date when="1915">1915</date>
+                     <placeName>Napel</placeName>
+                  </birth>
+                  <death>
+                     <date when="1994">1994</date> 
+                     <placeName>Stockholm</placeName>
+                  </death>
+                  <!-- skal det fremgå at han er forfatter? -->
                </person>
-               
+               <person xml:id="SD">
+                  <persName>Siri Derkert</persName>
+                  <birth>
+                     <date when="1888">1888</date>
+                     <placeName>Stockholm</placeName>
+                  </birth>
+                  <death>
+                     <date when="1973">1973</date> 
+                     <placeName>Lidingö</placeName>
+                  </death>
+               </person>
+               <person xml:id="LD">
+                  <persName>Liv Derkert</persName>
+                  <birth>
+                     <date when="1918">1918</date>
+                     <placeName>Köpenhamn</placeName>
+                  </birth>
+                  <death>
+                     <date when="1938">1938</date> 
+                     <placeName>Lidingö </placeName>
+                  </death>
+               </person>
+               <person xml:id="OG">
+                  <persName>Olle Granath</persName>
+                    <!--mangler flere oplysninger-->
+               </person>
+               <person xml:id="LN">
+                  <persName>Lars Nittve</persName>
+                  <!-- Manlger flere oplysninger -->
+               </person>
             </listPerson>
          </particDesc>
       </profileDesc>
