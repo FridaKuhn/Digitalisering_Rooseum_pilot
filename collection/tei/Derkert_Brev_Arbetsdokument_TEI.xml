@@ -160,16 +160,136 @@
          <p>Some text here.</p>
       </body>
   </text>
-   <facsimile>
-      <surface ulx="0" uly="0" lrx="2370" lry="3307">
-         <graphic url="https://github.com/FridaKuhn/Digitalisering_Rooseum_pilot/blob/main/collection/img/Carlo_Derkert_brev_sida_11_av_18.tif"/>
-         <zone ulx="17" uly="30" lrx="306" lry="631"><!-- zone 1 --></zone>
-         <zone ulx="17" uly="631" lrx="306" lry="1887"><!-- zone 2 --></zone>
-         <zone ulx="17" uly="1887" lrx="306" lry="2321"><!-- zone 3 --></zone>
-         <zone ulx="311" uly="30" lrx="769" lry="584"><!-- zone 4 --></zone>
-        
-         <zone ulx="0" uly="0" lrx="0" lry="0"><!-- zone 5 --></zone>
-         
+   <sourceDoc>
+         <surface ulx="0" uly="0" lrx="2370" lry="3307">
+            <graphic url="https://github.com/FridaKuhn/Digitalisering_Rooseum_pilot/blob/main/collection/img/Carlo_Derkert_brev_sida_11_av_18.tif"/>
+            
+            <zone ulx="32" uly="15" lrx="630" lry="305"><!-- zone 1 -->
+               <line>SIRI DERKERT</line>
+               <line>C</line>
+            </zone>
+            
+            <zone ulx="630" uly="15" lrx="1889" lry="305"><!-- zone 2 -->
+               <line>„7 STATIONER PÅ EN KONSTNÄRS</line>
+               <line>VÄG i 1900-TALSKONSTEN"</line>
+            </zone>
+            
+            <zone ulx="1889" uly="15" lrx="2325" lry="305"><!-- zone 3 -->
+               <line>Siri år 1938</line>
+               <line>50 år GAMMA </line>
+               <line>Siri år 1945 </line>
+               <line>55 år GAMM</line>
+            </zone>
+            
+            <zone ulx="32" uly="305" lrx="584" lry="772"><!-- zone 4 -->
+               <line>STATION IV :</line>
+               <line>1934 - 1935</line>
+               <line>(Ninnans Ateljé)</line>
+               <line>1935 - 1936</line>
+               <line>(Ninnans Ateljé)</line>
+            </zone>
+            
+            <zone ulx="584" uly="305" lrx="1886" lry="589"><!-- zone 5 -->
+               <line>"GOTISK KUBISM" (Ljusmystik) .  EN NY VARIANT </line>
+               <line>I SIRI DERKERTS TRÄVAN ATT REDUCERA OCH </line>
+               <line>MODIFIERA I PLAN ("Kubistisk accentuering")</line>
+            </zone>
+            
+            <zone ulx="584" uly="589" lrx="1245" lry="772"><!-- zone 6 -->
+               <line>Akv. Och Pasteller</line>
+               <line>1934 - 1935</line>
+            </zone>
+            
+            <zone ulx="584" uly="770" lrx="1245" lry="1281"><!-- zone 7 -->
+               <line>"gerda", helfigur</line>
+               <line>"[oläsligt, Susel?], helfigur</line>
+               <line>"Sara„ helfigur</line>
+               <line>"Carlo Spelar Piano"</line>
+               <line>"Liv Spelar Piano"</line>
+               <line>"STora SKOGAKVARELLER"</line>
+            </zone>
+            
+            <zone ulx="1457" uly="589" lrx="1886" lry="720"><!-- zone 8 -->
+               <line>Oljemåln.</line>
+               <line>1935 - 1936.</line>
+            </zone>
+            
+            <zone ulx="720" uly="1457" lrx="2131" lry="1281 "><!-- zone 9 -->
+               <line>„Didi I aTeljén"</line>
+               <line>"Självporträtt"</line>
+               <line>"Gräshoppan"</line>
+               <line>"Skygg [oläsligt]"</line>
+               <line>"Carlo laser konsthistoria"</line>
+               <line>([oläsligt]meditation[?])</line>
+            </zone>
+            
+            <zone ulx="0" uly="0" lrx="0" lry="0"><!-- zone 10 -->
+               <line>(DET VAR PÅ SENSOMMAREN 1934 SOM SIRI OCH BARNEN -</line>
+               <line>Efter 1 månad på [oläsligt] - ÅTER SAMMANTRÄFFAR MED</line>
+               <line>FAMILJEN HEDSTRÖM PÅ SIMPNÄS. - VINTERN 1934- 1935</line>
+               <line>SITTER DE ALLA (gerda, [olæsligt, Susel?], [Maria/Marja?]) MODELL FÖR SIRI I </line>
+               <line>NINNANS ATELJÉ. ... ANDRA MODELLE[R/N]Kusinerna, Liv o.sv</line>
+            </zone>
+            
+            <zone ulx="0" uly="0" lrx="0" lry="0"><!-- zone 11 -->
+               <line>En Kollektion teckningar från den-</line>
+               <line>na period skickas till "Paris utställn."</line>
+               <line>år 1037. - Lundberg på Svenska In-</line>
+               <line>stitutet I Paris censurerar. Siris'</line>
+               <line>teckningar hängs aldrig upp.</line>
+            </zone>
+            
+            <zone ulx="0" uly="0" lrx="0" lry="0"><!-- zone 11.1 -->
+               <line>Där Picassos'</line>
+               <line>Guernica hängs</line>
+               <line>upp i början</line>
+               <line>på juni</line>
+            </zone>
+            
+            <zone ulx="0" uly="0" lrx="0" lry="0"><!-- zone 12 -->
+               <line>En Serie "gotiska [oläsligt]" fr[xx]</line>
+               <line>Ninnan [oläsligt] ateljé ägs av</line>
+               <line>[oläsligt] [oläsligt] [oläsligt] Sara</line>
+               <line>[oläsligt].</line>
+            </zone>
+            
+            <zone ulx="0" uly="0" lrx="0" lry="0"><!-- zone 13 A -->
+               <line>(EFTER PERIODEN I NINNANS ATELJÉ 1934 - 1936 FLYTTAR </line>
+               <line>SIRI ÅTER TILL "LILLSTUGAN" = SISTA HALVÅRET 1936. FÅR</line>
+               <line>DENNA HÖST ETT LITET RESESTIPENDIUM TILL PARIS - - </line>
+               <line>ÅTERVÄNDER TILL SVERIGE OCH LILLSTUGAN VÅREN 1937. -OBS,</line>
+            </zone>
+            
+            <zone ulx="0" uly="0" lrx="0" lry="0"><!-- zone 13 B -->
+               <line>OBS: alla dessa teckningar från Parisresan</line>
+               <line>t ex. hamnar i Antwerpen, 1936. Samt </line>
+               <line>alla dessa teckningar från Ateljén</line>
+               <line>om kaféliv och demonstrationer i </line>
+               <line>Paris 36-37. ([oläsligt] [oläsligt] om Folkfronten)</line>
+            </zone>
+            
+            <zone ulx="0" uly="0" lrx="0" lry="0"><!-- zone 13 B.1-->
+               <line>jämför dottern</line>
+               <line>Livs samtida</line>
+               <line>teckningar.</line>
+            </zone>
+            
+            <zone ulx="0" uly="0" lrx="0" lry="0"><!-- zone 14 -->
+               <line>5. STATION IV</line>
+               <line>Från hösten 1936</line>
+               <line>till dec.[?] 1938, då </line>
+               <line>Liv dör.</line>
+            </zone>
+            
+            <zone ulx="0" uly="0" lrx="0" lry="0"><!-- zone 15 -->
+               <line>"ETT ARKITEKTONISKT FORMBYGGANDE MÅLERI" (OCH DITO</line>
+               <line>TECKNINGAR) DOMINERAR UNDER DESSA TVÅ ÅR 1936-1938.</line>
+               <line>(OBS: Borta är "inåtvändheten" och "ljus - rum"-</line>
+               <line>Mystiken från Ninnan[s?] [oläsligt] Ateljé 1934- 36.)</line>
+            </zone>
+            
       </surface>
-   </facsimile>
+   </sourceDoc>
+      
+        
 </TEI>
