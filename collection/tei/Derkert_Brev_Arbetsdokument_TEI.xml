@@ -4,13 +4,16 @@
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
-      
+
       <fileDesc>
          <titleStmt>
-            <title>En elektronisk transkribering av ett brev från <persName ref="CD">Carlo Derkert</persName> till 
-               <persName ref="OG">Olle Granath</persName> och <persName ref="LN">Lars Nittve</persName>
+            <title>En elektronisk transkribering av ett brev från <persName ref="CD">Carlo
+                  Derkert</persName> till <persName ref="OG">Olle Granath</persName> och <persName
+                  ref="LN">Lars Nittve</persName>
             </title>
-            <author> <persName ref="CD">Carlo Derkert</persName> </author>
+            <author>
+               <persName ref="CD">Carlo Derkert</persName>
+            </author>
             <editor>
                <persName>Hanna Andersson</persName>
                <persName>Ingvild Hovland Kaldal</persName>
@@ -18,7 +21,7 @@
                <persName>Henning Lundkvist</persName>
                <!-- Lidt usikker på ovenstående nametags - skal der defineres en URI for os også og i så fald hvor -->
             </editor>
-            <principal></principal>
+            <principal/>
             <respStmt>
                <name xml:id="ACB">Anton Carlander Borgström</name>
                <resp>Handledare</resp>
@@ -36,9 +39,11 @@
             <edition n="1​.0">
                <title>Version 1​.0.</title>
                <date when="2024">2024</date>
-               <note>Första versionen av En elektronisk transkribering av ett brev från <persName>Carlo Derkert</persName> till 
-                  <persName ref="OG">Olle Granath</persName> och <persName ref="LN">Lars Nittve</persName>. I denna första version är endast sida XX 
-                  av brevets totala XXX sidor transkriberad och annoterad.</note>
+               <note>Första versionen av En elektronisk transkribering av ett brev från
+                     <persName>Carlo Derkert</persName> till <persName ref="OG">Olle
+                     Granath</persName> och <persName ref="LN">Lars Nittve</persName>. I denna
+                  första version är endast sida XX av brevets totala XXX sidor transkriberad och
+                  annoterad.</note>
                <!-- Husk at tilføje sidetal -->
             </edition>
          </editionStmt>
@@ -47,7 +52,7 @@
             <publisher>
                <persName>Hanna Andersson???</persName>
                <persName>Ingvild Hovland Kaldal???</persName>
-               <persName>Frida Kugn Nicolaisen???</persName>
+               <persName>Frida Kuhn Nicolaisen???</persName>
                <persName>Henning Lundkvist???</persName>
             </publisher>
             <distributor>Bibliotekshögskolan, Högskolan i Borås ???? </distributor>
@@ -55,22 +60,43 @@
             <address>
                <name>Bibliotekshögskolan, Högskolan i Borås</name>
                <!-- herover skal vi nok bruge noget a la orgName -->
-               <addrLine>
-                  Högskolan i Borås, 501 90 Borås, Sverige
-               </addrLine>
+               <addrLine> Högskolan i Borås, 501 90 Borås, Sverige </addrLine>
             </address>
             <idno>???</idno>
-            <availability><p>???</p></availability>
+            <availability>
+               <p>???</p>
+            </availability>
             <date>publishing date</date>
          </publicationStmt>
          <notesStmt>
-            <note>Fotografering av det fysiska brevet genomfördes på Stadsarkivet i Malmö, med hjälp av bildarkivarie Tobias Idberg, den <date>2024-02-12</date> 12 februari 2024.</note>
+            <note>Fotografering av det fysiska brevet genomfördes på Stadsarkivet i Malmö, med hjälp
+               av bildarkivarie Tobias Idberg, den <date>2024-02-12</date> 12 februari 2024.</note>
          </notesStmt>
          <sourceDesc>
-            <p>Information about the source</p>
+            <msDesc>
+               <msIdentifier>
+                  <country xml:id="SWE">Sverige</country>
+                  <settlement>Malmö</settlement>
+                  <repository>Malmö Stadsarkiv</repository>
+                  <collection>Stiftelsen Rooseums sparade korrespondens 1988-1990</collection>
+                  <idno>SE/MSA/01713 volym E 1:1</idno>
+               </msIdentifier>
+               <head>SIRI DERKERT C. "7 STATIONER PÅ EN KONSTNÄRS VÄG I 1900-TALSKONSTEN"</head>
+               <msContents>
+                  <p>En sida ur ett brev skrivet av Carlo Derkert innehållande en beskrivning av
+                     modern Siri Derkerts konstnärskap.</p>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <p><material>Papper</material></p>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+            </msDesc>
          </sourceDesc>
       </fileDesc>
-      
+
       <encodingDesc>
          <projectDesc>
             <p>Det här dokumentet har digitaliserats som en del av ett projekt i kursen
@@ -80,16 +106,22 @@
                1988-1990 (SE/MSA/01713 volym E 1:1), som finns på Stadsarkivet i Malmö.</p>
          </projectDesc>
          <samplingDecl>
-            <p>Dokumentet (en enskild sida av ett brev på 18 handskrivna A4-sidor) valdes ut eftersom det är representativt för brevet som helhet.</p>
+            <p>Dokumentet (en enskild sida av ett brev på 18 handskrivna A4-sidor) valdes ut
+               eftersom det är representativt för brevet som helhet.</p>
          </samplingDecl>
          <editorialDecl>
-            <p>Här ska vi beskriva hur vi har behandlat t.ex. citattecken, radbrytningar, avstavningar, segment osv. Detta får vi fylla i när vi är klara med kodningen av body.</p>
+            <p/>
+            <!-- Här ska vi beskriva hur vi har behandlat t.ex. citattecken, radbrytningar,
+               avstavningar, segment osv. Fylls i när vi är klara med kodningen av
+               body. -->
          </editorialDecl>
       </encodingDesc>
-      
-      
+
+
       <profileDesc>
-         <creation>Brevet skrevs av Carlo Derkert, Siri Derkerts son, och skickades till Olle Granath och Lars Nittve. OBS. Utveckla.</creation>
+         <creation>Brevet skrevs av Carlo Derkert, Siri Derkerts son, och skickades till Olle
+            Granath och Lars Nittve.</creation>
+         <!-- Utveckla ev. ovanstående med info om vilka Olle och Lars är (chef på Moderna osv.) -->
          <langUsage>
             <language ident="SWE"/>
          </langUsage>
@@ -109,7 +141,7 @@
                      <placeName>Napel</placeName>
                   </birth>
                   <death>
-                     <date when="1994">1994</date> 
+                     <date when="1994">1994</date>
                      <placeName>Stockholm</placeName>
                   </death>
                   <!-- skal det fremgå at han er forfatter? -->
@@ -121,7 +153,7 @@
                      <placeName>Stockholm</placeName>
                   </birth>
                   <death>
-                     <date when="1973">1973</date> 
+                     <date when="1973">1973</date>
                      <placeName>Lidingö</placeName>
                   </death>
                </person>
@@ -132,13 +164,13 @@
                      <placeName>Köpenhamn</placeName>
                   </birth>
                   <death>
-                     <date when="1938">1938</date> 
+                     <date when="1938">1938</date>
                      <placeName>Lidingö </placeName>
                   </death>
                </person>
                <person xml:id="OG">
                   <persName>Olle Granath</persName>
-                    <!--mangler flere oplysninger-->
+                  <!--mangler flere oplysninger-->
                </person>
                <person xml:id="LN">
                   <persName>Lars Nittve</persName>
@@ -146,151 +178,157 @@
                </person>
             </listPerson>
          </particDesc>
+         <calendarDesc>
+            <calendar xml:id="gregorian">
+               <p>Gregoriansk kalender</p>
+            </calendar>
+         </calendarDesc>
       </profileDesc>
-      
-      
+
+
       <revisionDesc>
          <change/>
       </revisionDesc>
-      
-      
+
+
    </teiHeader>
-   
-  <text>
+
+   <text>
       <body>
          <p>Some text here.</p>
       </body>
-  </text>
+   </text>
    <sourceDoc>
-         <surface ulx="0" uly="0" lrx="2370" lry="3307">
-            <graphic url="https://github.com/FridaKuhn/Digitalisering_Rooseum_pilot/blob/main/collection/img/Carlo_Derkert_brev_sida_11_av_18.tif"/>
-            
-            <zone ulx="32" uly="15" lrx="630" lry="305"><!-- zone 1 -->
-               <line>SIRI DERKERT</line>
-               <line>C</line>
-            </zone>
-            
-            <zone ulx="630" uly="15" lrx="1889" lry="305"><!-- zone 2 -->
-               <line>„7 STATIONER PÅ EN KONSTNÄRS</line>
-               <line>VÄG i 1900-TALSKONSTEN"</line>
-            </zone>
-            
-            <zone ulx="1889" uly="15" lrx="2325" lry="305"><!-- zone 3 -->
-               <line>Siri år 1938</line>
-               <line>50 år GAMMA </line>
-               <line>Siri år 1945 </line>
-               <line>55 år GAMM</line>
-            </zone>
-            
-            <zone ulx="32" uly="305" lrx="584" lry="772"><!-- zone 4 -->
-               <line>STATION IV :</line>
-               <line>1934 - 1935</line>
-               <line>(Ninnans Ateljé)</line>
-               <line>1935 - 1936</line>
-               <line>(Ninnans Ateljé)</line>
-            </zone>
-            
-            <zone ulx="584" uly="305" lrx="1886" lry="589"><!-- zone 5 -->
-               <line>"GOTISK KUBISM" (Ljusmystik) .  EN NY VARIANT </line>
-               <line>I SIRI DERKERTS TRÄVAN ATT REDUCERA OCH </line>
-               <line>MODIFIERA I PLAN ("Kubistisk accentuering")</line>
-            </zone>
-            
-            <zone ulx="584" uly="589" lrx="1245" lry="772"><!-- zone 6 -->
-               <line>Akv. Och Pasteller</line>
-               <line>1934 - 1935</line>
-            </zone>
-            
-            <zone ulx="584" uly="770" lrx="1245" lry="1281"><!-- zone 7 -->
-               <line>"gerda", helfigur</line>
-               <line>"[oläsligt, Susel?], helfigur</line>
-               <line>"Sara„ helfigur</line>
-               <line>"Carlo Spelar Piano"</line>
-               <line>"Liv Spelar Piano"</line>
-               <line>"STora SKOGAKVARELLER"</line>
-            </zone>
-            
-            <zone ulx="1457" uly="589" lrx="1886" lry="720"><!-- zone 8 -->
-               <line>Oljemåln.</line>
-               <line>1935 - 1936.</line>
-            </zone>
-            
-            <zone ulx="720" uly="1457" lrx="2131" lry="1281 "><!-- zone 9 -->
-               <line>„Didi I aTeljén"</line>
-               <line>"Självporträtt"</line>
-               <line>"Gräshoppan"</line>
-               <line>"Skygg [oläsligt]"</line>
-               <line>"Carlo laser konsthistoria"</line>
-               <line>([oläsligt]meditation[?])</line>
-            </zone>
-            
-            <zone ulx="0" uly="0" lrx="0" lry="0"><!-- zone 10 -->
-               <line>(DET VAR PÅ SENSOMMAREN 1934 SOM SIRI OCH BARNEN -</line>
-               <line>Efter 1 månad på [oläsligt] - ÅTER SAMMANTRÄFFAR MED</line>
-               <line>FAMILJEN HEDSTRÖM PÅ SIMPNÄS. - VINTERN 1934- 1935</line>
-               <line>SITTER DE ALLA (gerda, [olæsligt, Susel?], [Maria/Marja?]) MODELL FÖR SIRI I </line>
-               <line>NINNANS ATELJÉ. ... ANDRA MODELLE[R/N]Kusinerna, Liv o.sv</line>
-            </zone>
-            
-            <zone ulx="0" uly="0" lrx="0" lry="0"><!-- zone 11 -->
-               <line>En Kollektion teckningar från den-</line>
-               <line>na period skickas till "Paris utställn."</line>
-               <line>år 1037. - Lundberg på Svenska In-</line>
-               <line>stitutet I Paris censurerar. Siris'</line>
-               <line>teckningar hängs aldrig upp.</line>
-            </zone>
-            
-            <zone ulx="0" uly="0" lrx="0" lry="0"><!-- zone 11.1 -->
-               <line>Där Picassos'</line>
-               <line>Guernica hängs</line>
-               <line>upp i början</line>
-               <line>på juni</line>
-            </zone>
-            
-            <zone ulx="0" uly="0" lrx="0" lry="0"><!-- zone 12 -->
-               <line>En Serie "gotiska [oläsligt]" fr[xx]</line>
-               <line>Ninnan [oläsligt] ateljé ägs av</line>
-               <line>[oläsligt] [oläsligt] [oläsligt] Sara</line>
-               <line>[oläsligt].</line>
-            </zone>
-            
-            <zone ulx="0" uly="0" lrx="0" lry="0"><!-- zone 13 A -->
-               <line>(EFTER PERIODEN I NINNANS ATELJÉ 1934 - 1936 FLYTTAR </line>
-               <line>SIRI ÅTER TILL "LILLSTUGAN" = SISTA HALVÅRET 1936. FÅR</line>
-               <line>DENNA HÖST ETT LITET RESESTIPENDIUM TILL PARIS - - </line>
-               <line>ÅTERVÄNDER TILL SVERIGE OCH LILLSTUGAN VÅREN 1937. -OBS,</line>
-            </zone>
-            
-            <zone ulx="0" uly="0" lrx="0" lry="0"><!-- zone 13 B -->
-               <line>OBS: alla dessa teckningar från Parisresan</line>
-               <line>t ex. hamnar i Antwerpen, 1936. Samt </line>
-               <line>alla dessa teckningar från Ateljén</line>
-               <line>om kaféliv och demonstrationer i </line>
-               <line>Paris 36-37. ([oläsligt] [oläsligt] om Folkfronten)</line>
-            </zone>
-            
-            <zone ulx="0" uly="0" lrx="0" lry="0"><!-- zone 13 B.1-->
-               <line>jämför dottern</line>
-               <line>Livs samtida</line>
-               <line>teckningar.</line>
-            </zone>
-            
-            <zone ulx="0" uly="0" lrx="0" lry="0"><!-- zone 14 -->
-               <line>5. STATION IV</line>
-               <line>Från hösten 1936</line>
-               <line>till dec.[?] 1938, då </line>
-               <line>Liv dör.</line>
-            </zone>
-            
-            <zone ulx="0" uly="0" lrx="0" lry="0"><!-- zone 15 -->
-               <line>"ETT ARKITEKTONISKT FORMBYGGANDE MÅLERI" (OCH DITO</line>
-               <line>TECKNINGAR) DOMINERAR UNDER DESSA TVÅ ÅR 1936-1938.</line>
-               <line>(OBS: Borta är "inåtvändheten" och "ljus - rum"-</line>
-               <line>Mystiken från Ninnan[s?] [oläsligt] Ateljé 1934- 36.)</line>
-            </zone>
-            
+      <surface ulx="0" uly="0" lrx="2370" lry="3307">
+         <graphic
+            url="https://github.com/FridaKuhn/Digitalisering_Rooseum_pilot/blob/main/collection/img/Carlo_Derkert_brev_sida_11_av_18.tif"/>
+
+         <zone ulx="32" uly="15" lrx="630" lry="305"><!-- zone 1 -->
+            <line>SIRI DERKERT</line>
+            <line>C</line>
+         </zone>
+
+         <zone ulx="630" uly="15" lrx="1889" lry="305"><!-- zone 2 -->
+            <line>"7 STATIONER PÅ EN KONSTNÄRS</line>
+            <line>VÄG i 1900-TALSKONSTEN"</line>
+         </zone>
+
+         <zone ulx="1889" uly="15" lrx="2325" lry="305"><!-- zone 3 -->
+            <line>Siri år 1938</line>
+            <line>50 år GAMMA </line>
+            <line>Siri år 1945 </line>
+            <line>55 år GAMM</line>
+         </zone>
+
+         <zone ulx="32" uly="305" lrx="584" lry="772"><!-- zone 4 -->
+            <line>STATION IV :</line>
+            <line>1934 - 1935</line>
+            <line>(Ninnans Ateljé)</line>
+            <line>1935 - 1936</line>
+            <line>(Ninnans Ateljé)</line>
+         </zone>
+
+         <zone ulx="584" uly="305" lrx="1886" lry="589"><!-- zone 5 -->
+            <line>"GOTISK KUBISM" (Ljusmystik) . EN NY VARIANT </line>
+            <line>I SIRI DERKERTS TRÄVAN ATT REDUCERA OCH </line>
+            <line>MODIFIERA I PLAN ("Kubistisk accentuering")</line>
+         </zone>
+
+         <zone ulx="584" uly="589" lrx="1245" lry="772"><!-- zone 6 -->
+            <line>Akv. Och Pasteller</line>
+            <line>1934 - 1935</line>
+         </zone>
+
+         <zone ulx="584" uly="770" lrx="1245" lry="1281"><!-- zone 7 -->
+            <line>"gerda", helfigur</line>
+            <line>"[oläsligt, Susel?], helfigur</line>
+            <line>"Sara„ helfigur</line>
+            <line>"Carlo Spelar Piano"</line>
+            <line>"Liv Spelar Piano"</line>
+            <line>"STora SKOGAKVARELLER"</line>
+         </zone>
+
+         <zone ulx="1457" uly="589" lrx="1886" lry="720"><!-- zone 8 -->
+            <line>Oljemåln.</line>
+            <line>1935 - 1936.</line>
+         </zone>
+
+         <zone ulx="720" uly="1457" lrx="2131" lry="1281 "><!-- zone 9 -->
+            <line>"Didi I aTeljén"</line>
+            <line>"Självporträtt"</line>
+            <line>"Gräshoppan"</line>
+            <line>"Skygg [oläsligt]"</line>
+            <line>"Carlo laser konsthistoria"</line>
+            <line>([oläsligt]meditation[?])</line>
+         </zone>
+
+         <zone ulx="0" uly="0" lrx="0" lry="0"><!-- zone 10 -->
+            <line>(DET VAR PÅ SENSOMMAREN 1934 SOM SIRI OCH BARNEN -</line>
+            <line>Efter 1 månad på [oläsligt] - ÅTER SAMMANTRÄFFAR MED</line>
+            <line>FAMILJEN HEDSTRÖM PÅ SIMPNÄS. - VINTERN 1934- 1935</line>
+            <line>SITTER DE ALLA (gerda, [olæsligt, Susel?], [Maria/Marja?]) MODELL FÖR SIRI I </line>
+            <line>NINNANS ATELJÉ. ... ANDRA MODELLE[R/N]Kusinerna, Liv o.sv</line>
+         </zone>
+
+         <zone ulx="0" uly="0" lrx="0" lry="0"><!-- zone 11 -->
+            <line>En Kollektion teckningar från den-</line>
+            <line>na period skickas till "Paris utställn."</line>
+            <line>år 1037. - Lundberg på Svenska In-</line>
+            <line>stitutet I Paris censurerar. Siris'</line>
+            <line>teckningar hängs aldrig upp.</line>
+         </zone>
+
+         <zone ulx="0" uly="0" lrx="0" lry="0"><!-- zone 11.1 -->
+            <line>Där Picassos'</line>
+            <line>Guernica hängs</line>
+            <line>upp i början</line>
+            <line>på juni</line>
+         </zone>
+
+         <zone ulx="0" uly="0" lrx="0" lry="0"><!-- zone 12 -->
+            <line>En Serie "gotiska [oläsligt]" fr[xx]</line>
+            <line>Ninnan [oläsligt] ateljé ägs av</line>
+            <line>[oläsligt] [oläsligt] [oläsligt] Sara</line>
+            <line>[oläsligt].</line>
+         </zone>
+
+         <zone ulx="0" uly="0" lrx="0" lry="0"><!-- zone 13 A -->
+            <line>(EFTER PERIODEN I NINNANS ATELJÉ 1934 - 1936 FLYTTAR </line>
+            <line>SIRI ÅTER TILL "LILLSTUGAN" = SISTA HALVÅRET 1936. FÅR</line>
+            <line>DENNA HÖST ETT LITET RESESTIPENDIUM TILL PARIS - - </line>
+            <line>ÅTERVÄNDER TILL SVERIGE OCH LILLSTUGAN VÅREN 1937. -OBS,</line>
+         </zone>
+
+         <zone ulx="0" uly="0" lrx="0" lry="0"><!-- zone 13 B -->
+            <line>OBS: alla dessa teckningar från Parisresan</line>
+            <line>t ex. hamnar i Antwerpen, 1936. Samt </line>
+            <line>alla dessa teckningar från Ateljén</line>
+            <line>om kaféliv och demonstrationer i </line>
+            <line>Paris 36-37. ([oläsligt] [oläsligt] om Folkfronten)</line>
+         </zone>
+
+         <zone ulx="0" uly="0" lrx="0" lry="0"><!-- zone 13 B.1-->
+            <line>jämför dottern</line>
+            <line>Livs samtida</line>
+            <line>teckningar.</line>
+         </zone>
+
+         <zone ulx="0" uly="0" lrx="0" lry="0"><!-- zone 14 -->
+            <line>5. STATION IV</line>
+            <line>Från hösten 1936</line>
+            <line>till dec.[?] 1938, då </line>
+            <line>Liv dör.</line>
+         </zone>
+
+         <zone ulx="0" uly="0" lrx="0" lry="0"><!-- zone 15 -->
+            <line>"ETT ARKITEKTONISKT FORMBYGGANDE MÅLERI" (OCH DITO</line>
+            <line>TECKNINGAR) DOMINERAR UNDER DESSA TVÅ ÅR 1936-1938.</line>
+            <line>(OBS: Borta är "inåtvändheten" och "ljus - rum"-</line>
+            <line>Mystiken från Ninnan[s?] [oläsligt] Ateljé 1934- 36.)</line>
+         </zone>
+
       </surface>
    </sourceDoc>
-      
-        
+
+
 </TEI>
