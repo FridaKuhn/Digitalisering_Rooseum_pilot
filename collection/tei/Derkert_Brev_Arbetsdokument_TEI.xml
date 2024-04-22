@@ -308,25 +308,25 @@
             </div>
             
             <div xml:id="zone_12">
-               <p>En Serie "gotiska [oläsligt]" fr[xx]
-               Ninnan [oläsligt] ateljé ägs av 
-               [oläsligt] [oläsligt] [oläsligt] Sara 
-               [oläsligt].</p>
-               <!-- kig lidt mere på denne -->
+               <p>En Serie <hi style="underlined" hand="#CD">"gotiska [oläsligt]"</hi> fr[xx]
+               Ninnan Santesons ateljé ägs av 
+               Dr Izikawitz samt av Sara 
+               Dersand.</p>
+               <!-- kig lidt mere på denne - navne -->
             </div>
             
             <div xml:id="zone_13a">
                <p>(EFTER PERIODEN I <placeName>NINNANS ATELJÉ</placeName> <date from="1934" to="1936">1934 - 1936</date> FLYTTAR 
                <persName ref="#SD">SIRI</persName> ÅTER TILL "<placeName>LILLSTUGAN</placeName>" = SISTA HALVÅRET <date when="1936">1936</date>. FÅR 
-               DENNA HÖST ETT LITET RESESTIPENDIUM TILL <placeName>PARIS</placeName> - - 
+               DENNA HÖST ETT LITET RESESTIPENDIUM <hi style="green underlining" hand="unknown">TILL <placeName>PARIS</placeName></hi> - - 
                ÅTERVÄNDER TILL <placeName>SVERIGE</placeName> OCH <placeName>LILLSTUGAN</placeName> VÅREN <date when="1937">1937</date>. -OBS,</p>
             </div>
             
             <div xml:id="zone_13b">
-               <p>OBS: alla dessa teckningar från Parisresan
+               <p>OBS: <hi style="underlined" hand="#CD">alla</hi> dessa teckningar från Parisresan
                t ex. hamnar i <placeName>Antwerpen</placeName>, <date when="1936">1936</date>. Samt 
-               alla dessa teckningar från Ateljén 
-               om kaféliv och demonstrationer i 
+               alla dessa teckningar <hi style="underlined" hand="#CD">från Ateljén 
+               om kaféliv</hi> och demonstrationer i 
                <placeName>Paris</placeName> <date from="1936" to="1937">36-37</date>. ([oläsligt] [oläsligt] om Folkfronten)</p>
                <!-- parisrejsen - event? -->
             </div>
@@ -339,16 +339,16 @@
          </div>
          <div type="5_station_IV">
             <div xml:id="zone_14">
-               <head>5. STATION IV</head> 
+               <head><hi style="underlined" hand="#CD"><hi style="green cirkle" hand="unknown">5.</hi> STATION IV</hi></head> 
                <p>Från hösten <date when="1936">1936</date>
                till året <date when="1938">1938</date>, då 
                <persName ref="#LD">Liv</persName> dör.</p>
             </div>
             
             <div xml:id="zone_15">
-               <p>"ETT ARKITEKTONISKT FORMBYGGANDE MÅLERI" (OCH DITO
+               <p><hi style="green underlining" hand="unknown"><hi style="" hand="#CD">"ETT ARKITEKTONISKT FORMBYGGANDE MÅLERI"</hi></hi> (OCH DITO
                TECKNINGAR) DOMINERAR UNDER DESSA TVÅ ÅR <date from="1936" to="1938">1936-1938</date>.
-               (OBS: Borta är "inåtvändheten" och "ljus - rum"-
+               (OBS: <hi style="underlined" hand="#CD">Borta är</hi> "inåtvändheten" och "ljus - rum"-
                Mystiken från <placeName>Ninnans stora Ateljé</placeName> <date from="1934" to="1936">1934 - 36</date>.)</p>
             </div>
          </div>
@@ -446,9 +446,9 @@
 
          <zone ulx="0" uly="0" lrx="0" lry="0"><!-- zone 12 -->
             <line>En Serie "gotiska [oläsligt]" fr[xx]</line>
-            <line>Ninnan [oläsligt] ateljé ägs av</line>
-            <line>[oläsligt] [oläsligt] [oläsligt] Sara</line>
-            <line>[oläsligt].</line>
+            <line>Ninnan Santesons ateljé ägs av</line>
+            <line>Dr Izikawitz samt av Sara</line>
+            <line>Dersand.</line>
          </zone>
 
          <zone ulx="0" uly="0" lrx="0" lry="0"><!-- zone 13a -->
