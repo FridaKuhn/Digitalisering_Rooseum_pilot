@@ -223,14 +223,14 @@
    hvorfor kan man ikke bruge head undervejs? er der et alternativ?
    skal orgnames og placesnames yderligere specificeres et sted i headeren?
    skal vi bruge line eller lb?
-   Kig på tags til highlight
+   korrektur ift svensk/dansk/engelsk
    husk at skriv i rapport at man også kunne have givet kunstværker en URI-->
    <text>
       <body> 
          <div type="sidehoved">
             <div xml:id=" zone_1">
                <head><persName ref="#SD">SIRI DERKERT</persName></head>
-            <p>C.</p>
+            <p><hi style="green highlight" hand="unknown">C.</hi></p>
             </div>
             <!-- Se om der er bedre tag til sideangivelse -->
             
@@ -238,28 +238,28 @@
             VÄG i 1900-TALSKONSTEN"</head></div>
             
             <div xml:id="zone_3">
-               <p><persName ref="#SD">Siri</persName> år <date when="1938">1938</date> 
+               <p><persName ref="#SD">Siri</persName> år <date when="1938"><hi style="underlined" hand="#CD">1938</hi></date> 
                50 år GAMMA 
-               <persName ref="#SD">Siri</persName> år <date when="1945">1945</date> 
+               <persName ref="#SD">Siri</persName> år <date when="1945"><hi style="underlined" hand="#CD">1945</hi></date> 
             55 år GAMM</p></div>           
          </div>
          
          <div type="4_station_IV">
            <div xml:id="zone_4"> 
-              <head>STATION IV :</head> 
+              <head><hi style="underlined" hand="#CD"><hi style="green circle" hand="unknown">4.</hi> STATION IV</hi> :</head> 
             <p> <date from="1934" to="1935">1934 - 1935</date> 
                (<placeName>Ninnans Ateljé</placeName>) 
             <date from="1935" to="1936">1935 - 1936</date>
             <placeName>(Ninnans Ateljé)</placeName></p></div>
             
             <div xml:id="zone_5">
-               <p>"GOTISK KUBISM" (Ljusmystik) .  EN NY VARIANT 
-               I <persName ref="#SD">SIRI DERKERTS</persName> TRÄVAN ATT REDUCERA OCH 
-               MODIFIERA I PLAN ("Kubistisk accentuering") </p></div>
+               <p>"<hi style="green underlining" hand="unknown"><hi style="underlined" hand="#CD">GOTISK KUBISM</hi>" (Ljusmystik) .  EN NY VARIANT 
+               I <persName ref="#SD">SIRI DERKERT</persName>S STRÄVAN ATT REDUCERA OCH 
+               MODIFIERA I PLAN</hi> ("Kubistisk accentuering") </p></div>
            
            <div xml:id="zone_6">
-              <head>Akv. Och Pasteller
-           <date from="1934" to="1935">1934 - 1935</date></head></div>
+              <head><hi style="box" hand="#CD">Akv. och Pasteller
+           <date from="1934" to="1935">1934 - 1935</date></hi></head></div>
             
             <div xml:id="zone_7">
                <p><objectName type="artwork">"gerda"</objectName>, helfigur
@@ -271,8 +271,8 @@
             <!-- gerda og sara? -->  
             
             <div xml:id="zone_8">
-               <head>Oljemåln.
-               <date from="1935" to="1936">1935 - 1936</date>.</head></div>
+               <head><hi style="box" hand="#CD">Oljemåln.
+               <date from="1935" to="1936">1935 - 1936</date>.</hi></head></div>
             
             <div xml:id="zone_9">
                <p><objectName type="artwork">"Didi I aTeljén"</objectName>,
@@ -284,16 +284,17 @@
             
             <div xml:id="zone_10">
                <p>(DET VAR PÅ SENSOMMAREN <date when="1934">1934</date> SOM <persName ref="#SD">SIRI</persName> OCH BARNEN -
-               Efter 1 månad på [oläsligt] - ÅTER SAMMANTRÄFFAR MED
+               Efter 1 månad på [oläsligt] - <hi style="underlined" hand="#CD">ÅTER</hi> SAMMANTRÄFFAR MED
                FAMILJEN HEDSTRÖM PÅ SIMPNÄS. - VINTERN <date from="1934" to="1935">1934 - 1935</date>
                SITTER DE ALLA (gerda, [olæsligt, Susel?], [Maria/Marja?]) MODELL FÖR <persName ref="SD">SIRI</persName> I 
-               <placeName>NINNANS ATELJÉ</placeName>. ... ANDRA MODELLE[R/N]Kusinerna, Liv o.sv</p>
+               <placeName>NINNANS ATELJÉ</placeName>. ... <hi style="underlined" hand="#CD">ANDRA MODELLER:</hi> Kusinerna, <persName ref="#LD">Liv</persName> o.s.v</p>
+               <!-- der mangler lidt af hver her -->
             </div>
             
             <div xml:id="zone_11">
-               <p>- En Kollektion teckningar från den-
-               na period skickas till "Paris utställn."
-               år <date when="1937">1937</date>. - Lundberg på Svenska In-
+               <p>- En Kollektion teckningar <hi style="underlined" hand="#CD">från den-
+               na period</hi> skickas till <hi style="underlined" hand="CD">"Paris utställn."
+                  år <date when="1937">1937</date>.</hi> - Lundberg på Svenska In-
                stitutet I Paris censurerar. <persName ref="#SD">Siri</persName>s'
                teckningar hängs aldrig upp.</p>
                <!-- der mangler en del tags her. organisationer, sted, event -->
@@ -425,7 +426,7 @@
             <line>Efter 1 månad på [oläsligt] - ÅTER SAMMANTRÄFFAR MED</line>
             <line>FAMILJEN HEDSTRÖM PÅ SIMPNÄS. - VINTERN 1934- 1935</line>
             <line>SITTER DE ALLA (gerda, [olæsligt, Susel?], [Maria/Marja?]) MODELL FÖR SIRI I </line>
-            <line>NINNANS ATELJÉ. ... ANDRA MODELLE[R/N]Kusinerna, Liv o.sv</line>
+            <line>NINNANS ATELJÉ. ... ANDRA MODELLER: Kusinerna, Liv o.sv</line>
          </zone>
 
          <zone ulx="0" uly="0" lrx="0" lry="0"><!-- zone 11 -->
