@@ -7,7 +7,7 @@
 
       <fileDesc>
          <titleStmt>
-            <title>En elektronisk transkribering av ett brev från <persName ref="CD">Carlo
+            <title>En elektronisk transkribering av en fotostatkopia av ett brev från <persName ref="CD">Carlo
                   Derkert</persName> till <persName ref="OG">Olle Granath</persName> och <persName
                   ref="LN">Lars Nittve</persName>
             </title>
@@ -37,7 +37,7 @@
             <edition n="1​.0">
                <title>Version 1​.0.</title>
                <date when="2024">2024</date>
-               <note>Första versionen av En elektronisk transkribering av ett brev från
+               <note>Första versionen av En elektronisk transkribering av en fotostatkopia av ett brev från
                      <persName ref="#CD">Carlo Derkert</persName> till <persName ref="OG">Olle
                      Granath</persName> och <persName ref="LN">Lars Nittve</persName>. I denna
                   första version är endast sida XX av brevets totala XXX sidor transkriberad och
@@ -81,7 +81,7 @@
                </msIdentifier>
                <head><persName ref="#SD">SIRI DERKERT</persName> C. "7 STATIONER PÅ EN KONSTNÄRS VÄG I 1900-TALSKONSTEN"</head>
                <msContents>
-                  <p>En sida ur ett brev skrivet av <persName ref="OG">Carlo Derkert</persName> innehållande en beskrivning av
+                  <p>En fotostatkopierad sida ur ett brev skrivet av <persName ref="CD">Carlo Derkert</persName> innehållande en beskrivning av
                      modern <persName ref="#SD">Siri Derkert</persName>s konstnärskap.</p>
                </msContents>
                <physDesc>
@@ -94,7 +94,7 @@
             </msDesc>
             <listPlace>
                <place xml:id="NA">
-                  <placeName>Ninnans Ataljé</placeName>
+                  <placeName>Ninnans Ateljé</placeName>
                </place>
             </listPlace>
          </sourceDesc>
@@ -109,7 +109,7 @@
                <date from="1988" to="1990">1988-1990</date> (SE/MSA/01713 volym E 1:1), som finns på <orgName ref="SR">Stadsarkivet i Malmö</orgName>.</p>
          </projectDesc>
          <samplingDecl>
-            <p>Dokumentet (en enskild sida av ett brev på 18 handskrivna A4-sidor) valdes ut
+            <p>Dokumentet (en enskild fotostatkopierad sida av ett brev på 18 handskrivna A4-sidor) valdes ut
                eftersom det är representativt för brevet som helhet.</p>
          </samplingDecl>
          <editorialDecl>
