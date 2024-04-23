@@ -7,21 +7,21 @@
 
       <fileDesc>
          <titleStmt>
-            <title>En elektronisk transkribering av en fotostatkopia av ett brev från <persName ref="CD">Carlo
-                  Derkert</persName> till <persName ref="OG">Olle Granath</persName> och <persName
-                  ref="LN">Lars Nittve</persName>
+            <title>En elektronisk transkribering av en fotostatkopia av ett brev från <persName ref="#CD">Carlo
+                  Derkert</persName> till <persName ref="#OG">Olle Granath</persName> och <persName
+                  ref="#LN">Lars Nittve</persName>
             </title>
             <author>
-               <persName ref="CD">Carlo Derkert</persName>
+               <persName ref="#CD">Carlo Derkert</persName>
             </author>
             <editor>
                <persName ref="#HA">Hanna Andersson</persName>
                <persName ref="#FKN">Frida Kuhn Nicolaisen</persName>
-               <persName ref="HL">Henning Lundkvist</persName>
+               <persName ref="#HL">Henning Lundkvist</persName>
             </editor>
             <principal/>
             <respStmt>
-               <persName ref="ACB">Anton Carlander Borgström</persName>
+               <persName ref="#ACB">Anton Carlander Borgström</persName>
                <resp>Handledare</resp>
             </respStmt>
             <respStmt>
@@ -29,7 +29,7 @@
                <resp>Huvudsaklig transkribering</resp>
             </respStmt>
             <respStmt>
-               <persName ref="IHK">Ingvild Hovland Kaldal</persName>
+               <persName ref="#IHK">Ingvild Hovland Kaldal</persName>
                <resp>Huvudsaklig bildredigering</resp>
             </respStmt>
          </titleStmt>
@@ -38,28 +38,22 @@
                <title>Version 1​.0.</title>
                <date when="2024">2024</date>
                <note>Första versionen av En elektronisk transkribering av en fotostatkopia av ett brev från
-                     <persName ref="#CD">Carlo Derkert</persName> till <persName ref="OG">Olle
-                     Granath</persName> och <persName ref="LN">Lars Nittve</persName>. I denna
-                  första version är endast sida XX av brevets totala XXX sidor transkriberad och
+                     <persName ref="#CD">Carlo Derkert</persName> till <persName ref="#OG">Olle
+                     Granath</persName> och <persName ref="#LN">Lars Nittve</persName>. I denna
+                  första version är endast sida 12 av brevets totala 18 sidor transkriberad och
                   annoterad.</note>
-               <!-- Husk at tilføje sidetal -->
             </edition>
          </editionStmt>
          <extent xmlns="http://www.tei-c.org/ns/1.0">????? Kb</extent>
          <publicationStmt>
             <publisher>
-               <persName>Hanna Andersson???</persName>
-               <persName>Frida Kuhn Nicolaisen???</persName>
-               <persName>Henning Lundkvist???</persName>
-               <!-- Ska detta vara med? -->
+               <orgName ref="#HB">Bibliotekshögskolan, Högskolan i Borås ????</orgName>
             </publisher>
-            <distributor><orgName ref="HB">Bibliotekshögskolan, Högskolan i Borås ????</orgName> </distributor>
             <pubPlace><placeName>Borås</placeName></pubPlace>
             <address>
-               <name><orgName ref="HB">Bibliotekshögskolan, Högskolan i Borås</orgName></name>
-               <addrLine> Högskolan i Borås, 501 90 Borås, Sverige </addrLine>
+               <name><orgName ref="#HB">Bibliotekshögskolan, Högskolan i Borås</orgName></name>
+               <addrLine> Högskolan i Borås, 501 90 Borås, Sverige</addrLine>
             </address>
-            <idno>???</idno>
             <availability>
                <p>???</p>
                <!-- Fyll i standardformulering -->
@@ -67,21 +61,21 @@
             <date>publishing date</date>
          </publicationStmt>
          <notesStmt>
-            <note>Fotografering av det fysiska brevet genomfördes på <orgName ref="MS">Stadsarkivet i Malmö</orgName>, med hjälp
-               av bildarkivarie <persName ref="TI">Tobias Idberg</persName>, den <date when="2024-02-12">12 februari 2024</date>.</note>
+            <note>Fotografering av det fysiska brevet genomfördes på <orgName ref="#MS">Stadsarkivet i Malmö</orgName>, med hjälp
+               av bildarkivarie <persName ref="#TI">Tobias Idberg</persName>, den <date when="2024-02-12">12 februari 2024</date>.</note>
          </notesStmt>
          <sourceDesc>
             <msDesc>
                <msIdentifier>
                   <country xml:id="SWE">Sverige</country>
                   <settlement>Malmö</settlement>
-                  <repository><orgName ref="MS">Malmö Stadsarkiv</orgName></repository>
-                  <collection><orgName ref="SR">Stiftelsen Rooseum</orgName>s sparade korrespondens <date from="1988" to="1990">1988-1990</date></collection>
+                  <repository><orgName ref="#MS">Malmö Stadsarkiv</orgName></repository>
+                  <collection><orgName ref="#SR">Stiftelsen Rooseum</orgName>s sparade korrespondens <date from="1988" to="1990">1988-1990</date></collection>
                   <idno>SE/MSA/01713 volym E 1:1</idno>
                </msIdentifier>
                <head><persName ref="#SD">SIRI DERKERT</persName> C. "7 STATIONER PÅ EN KONSTNÄRS VÄG I 1900-TALSKONSTEN"</head>
                <msContents>
-                  <p>En fotostatkopierad sida ur ett brev skrivet av <persName ref="CD">Carlo Derkert</persName> innehållande en beskrivning av
+                  <p>En fotostatkopierad sida ur ett brev skrivet av <persName ref="#CD">Carlo Derkert</persName> innehållande en beskrivning av
                      modern <persName ref="#SD">Siri Derkert</persName>s konstnärskap.</p>
                </msContents>
                <physDesc>
@@ -104,8 +98,8 @@
          <projectDesc>
             <p>Det här dokumentet har digitaliserats som en del av ett projekt i kursen
                Digitalisering för bevarande och tillgänglighet som ingår i masterprogrammet i
-               biblioteks- och informationsvetenskap på <orgName ref="HB">Högskolan i Borås</orgName> under vårterminen 2024.
-               Materialet kommer från samlingen med <orgName ref="SB">Stiftelsen Rooseum</orgName>s sparade korrespondens
+               biblioteks- och informationsvetenskap på <orgName ref="#HB">Högskolan i Borås</orgName> under vårterminen 2024.
+               Materialet kommer från samlingen med <orgName ref="#SB">Stiftelsen Rooseum</orgName>s sparade korrespondens
                <date from="1988" to="1990">1988-1990</date> (SE/MSA/01713 volym E 1:1), som finns på <orgName ref="SR">Stadsarkivet i Malmö</orgName>.</p>
          </projectDesc>
          <samplingDecl>
@@ -122,8 +116,8 @@
 
 
       <profileDesc>
-         <creation>Brevet skrevs av <persName ref="#CD">Carlo Derkert</persName>, <persName ref="#SD">Siri Derkerts</persName> son, och skickades till <persName ref="#OG">Olle
-            Granath</persName> och <persName ref="LN">Lars Nittve</persName>.</creation>
+         <creation>Brevet skrevs av <persName ref="#CD">Carlo Derkert</persName>, <persName ref="SD">Siri Derkerts</persName> son, och skickades till <persName ref="#OG">Olle
+            Granath</persName> och <persName ref="#LN">Lars Nittve</persName>.</creation>
          <!-- Utveckla ev. ovanstående med info om vilka Olle och Lars är (chef på Moderna osv.) -->
          <!-- hvem de er kan skrives under listperson -->
          <langUsage>
@@ -134,8 +128,8 @@
                <term>keyword example</term>
                <term>keyword example</term>
             </keywords>
-            <!-- LÄGG TILL DETTA FRÅN ARKDES -->
-            <classCode scheme="#lc">JC 177</classCode>
+            <!-- LÄGG TILL DETTA FRÅN AAT -->
+            <classCode scheme="lc">JC 177</classCode>
          </textClass>
          <particDesc>
             <listPerson type="dokument">
