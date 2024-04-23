@@ -53,10 +53,10 @@
                <persName>Henning Lundkvist???</persName>
                <!-- Ska detta vara med? -->
             </publisher>
-            <distributor><orgName>Bibliotekshögskolan, Högskolan i Borås ????</orgName> </distributor>
+            <distributor><orgName ref="HB">Bibliotekshögskolan, Högskolan i Borås ????</orgName> </distributor>
             <pubPlace><placeName>Borås</placeName></pubPlace>
             <address>
-               <name><orgName>Bibliotekshögskolan, Högskolan i Borås</orgName></name>
+               <name><orgName ref="HB">Bibliotekshögskolan, Högskolan i Borås</orgName></name>
                <addrLine> Högskolan i Borås, 501 90 Borås, Sverige </addrLine>
             </address>
             <idno>???</idno>
@@ -67,22 +67,22 @@
             <date>publishing date</date>
          </publicationStmt>
          <notesStmt>
-            <note>Fotografering av det fysiska brevet genomfördes på Stadsarkivet i Malmö, med hjälp
-               av bildarkivarie Tobias Idberg, den <date>2024-02-12</date> 12 februari 2024.</note>
+            <note>Fotografering av det fysiska brevet genomfördes på <orgName ref="MS">Stadsarkivet i Malmö</orgName>, med hjälp
+               av bildarkivarie <persName ref="TI">Tobias Idberg</persName>, den <date when="2024-02-12">12 februari 2024</date>.</note>
          </notesStmt>
          <sourceDesc>
             <msDesc>
                <msIdentifier>
                   <country xml:id="SWE">Sverige</country>
                   <settlement>Malmö</settlement>
-                  <repository>Malmö Stadsarkiv</repository>
-                  <collection><orgName>Stiftelsen Rooseum</orgName>s sparade korrespondens 1988-1990</collection>
+                  <repository><orgName ref="MS">Malmö Stadsarkiv</orgName></repository>
+                  <collection><orgName ref="SR">Stiftelsen Rooseum</orgName>s sparade korrespondens <date from="1988" to="1990">1988-1990</date></collection>
                   <idno>SE/MSA/01713 volym E 1:1</idno>
                </msIdentifier>
                <head><persName ref="#SD">SIRI DERKERT</persName> C. "7 STATIONER PÅ EN KONSTNÄRS VÄG I 1900-TALSKONSTEN"</head>
                <msContents>
                   <p>En sida ur ett brev skrivet av <persName ref="OG">Carlo Derkert</persName> innehållande en beskrivning av
-                     modern <persName ref="#SD">Siri Derkerts</persName> konstnärskap.</p>
+                     modern <persName ref="#SD">Siri Derkert</persName>s konstnärskap.</p>
                </msContents>
                <physDesc>
                   <objectDesc>
@@ -92,6 +92,11 @@
                   </objectDesc>
                </physDesc>
             </msDesc>
+            <listPlace>
+               <place xml:id="NA">
+                  <placeName>Ninnans Ataljé</placeName>
+               </place>
+            </listPlace>
          </sourceDesc>
       </fileDesc>
 
@@ -99,9 +104,9 @@
          <projectDesc>
             <p>Det här dokumentet har digitaliserats som en del av ett projekt i kursen
                Digitalisering för bevarande och tillgänglighet som ingår i masterprogrammet i
-               biblioteks- och informationsvetenskap på <orgName>Högskolan i Borås</orgName> under vårterminen 2024.
-               Materialet kommer från samlingen med <orgName>Stiftelsen Rooseum</orgName>s sparade korrespondens
-               1988-1990 (SE/MSA/01713 volym E 1:1), som finns på Stadsarkivet i Malmö.</p>
+               biblioteks- och informationsvetenskap på <orgName ref="HB">Högskolan i Borås</orgName> under vårterminen 2024.
+               Materialet kommer från samlingen med <orgName ref="SB">Stiftelsen Rooseum</orgName>s sparade korrespondens
+               <date from="1988" to="1990">1988-1990</date> (SE/MSA/01713 volym E 1:1), som finns på <orgName ref="SR">Stadsarkivet i Malmö</orgName>.</p>
          </projectDesc>
          <samplingDecl>
             <p>Dokumentet (en enskild sida av ett brev på 18 handskrivna A4-sidor) valdes ut
@@ -179,6 +184,9 @@
                   <persName xml:id="PP">Pablo Picasso</persName>
                  <!-- mangler flere oplysninger -->
                </person>
+               <person xml:id="SDe">
+                  <persName>Sara Dersand</persName>
+               </person>
             </listPerson>
             <listPerson type="digitalisering">
                <person xml:id="HL">
@@ -201,7 +209,25 @@
                   <persName>Ingvild Hovland Kaldal</persName>
                   <note>Studerende ved Högskolan i Borås. Tidligere medlem af gruppen.</note>
                </person>
+               <person>
+                  <persName xml:id="TI">
+                     Tobias Idberg
+                  </persName>
+               </person>
             </listPerson>
+            <listOrg type="dokument">
+               <org xml:id="SR">
+                  <orgName>Stiftelsen Rooseum</orgName>
+               </org>
+            </listOrg>
+            <listOrg type="digitalisering">
+               <org xml:id="MS">
+                  <orgName>Malmö Stadsarkiv</orgName>
+               </org>
+               <org xml:id="HB">
+                  <orgName>Högskolan i Borås</orgName>
+               </org>
+            </listOrg>
          </particDesc>
          <calendarDesc>
             <calendar xml:id="gregorian">
