@@ -268,7 +268,7 @@
            <div xml:id="zone_4"> 
               <head><hi style="underlined" hand="#CD"><hi style="green circle" hand="unknown">4.</hi> STATION IV</hi> :</head> 
             <p> <date from="1934" to="1935">1934 - 1935</date> 
-               (<placeName>Ninnans Ateljé</placeName>) 
+               <placeName>(Ninnans Ateljé)</placeName> 
             <date from="1935" to="1936">1935 - 1936</date>
             <placeName>(Ninnans Ateljé)</placeName></p></div>
             
@@ -283,10 +283,10 @@
             
             <div xml:id="zone_7">
                <p><objectName type="artwork">"gerda"</objectName>, helfigur
-               <objectName type="artwork">"[oläsligt, Susel?]"</objectName>, helfigur
-               <objectName type="artwork">"Sara"</objectName> helfigur
-               <objectName type="artwork">"<persName ref="CD">Carlo</persName> Spelar Piano"</objectName>
-               <objectName type="artwork">"<persName ref="LD">Liv</persName> Spelar Piano"</objectName>
+                  <objectName type="artwork">"<persName ref="#SH">"Susel"</persName>"</objectName>, helfigur
+                  <objectName type="artwork">"Sara„</objectName> helfigur
+               <objectName type="artwork">"<persName ref="#CD">Carlo</persName> Spelar Piano"</objectName>
+               <objectName type="artwork">"<persName ref="#LD">Liv</persName> Spelar Piano"</objectName>
                <objectName type="artwork">"STora SKOGAKVARELLER"</objectName></p></div>
             <!-- gerda og sara? -->  
             
@@ -305,8 +305,8 @@
             <div xml:id="zone_10">
                <p>(DET VAR PÅ SENSOMMAREN <date when="1934">1934</date> SOM <persName ref="#SD">SIRI</persName> OCH BARNEN -
                Efter 1 månad på [oläsligt] - <hi style="underlined" hand="#CD">ÅTER</hi> SAMMANTRÄFFAR MED
-               FAMILJEN HEDSTRÖM PÅ SIMPNÄS. - VINTERN <date from="1934" to="1935">1934 - 1935</date>
-               SITTER DE ALLA (gerda, [olæsligt, Susel?], [Maria/Marja?]) MODELL FÖR <persName ref="SD">SIRI</persName> I 
+               FAMILJEN HEDSTRÖM PÅ SIMPNÄS. - VINTERN <date from="1934" to="1935">1934- 1935</date>
+               SITTER DE ALLA (gerda, Susel, [Maria/Marja?]) MODELL FÖR <persName ref="#SD">SIRI</persName> I 
                <placeName>NINNANS ATELJÉ</placeName>. ... <hi style="underlined" hand="#CD">ANDRA MODELLER:</hi> Kusinerna, <persName ref="#LD">Liv</persName> o.s.v</p>
                <!-- der mangler lidt af hver her -->
             </div>
@@ -383,17 +383,18 @@
          <zone ulx="41" uly="301" lrx="596" lry="756"/>
          <zone></zone>
          
-         <zone ulx="33" uly="27" lrx="646" lry="290"><!-- zone 1 -->
+         <zone corresp="#zone_1" ulx="33" uly="27" lrx="646" lry="290"><!-- zone 1 -->
             <line>SIRI DERKERT</line>
             <line>C</line>
+            
          </zone>
 
-         <zone ulx="699" uly="31" lrx="1840" lry="256"><!-- zone 2 -->
+         <zone corresp="#zone_2" ulx="699" uly="31" lrx="1840" lry="256"><!-- zone 2 -->
             <line>"7 STATIONER PÅ EN KONSTNÄRS</line>
             <line>VÄG i 1900-TALSKONSTEN"</line>
          </zone>
 
-         <zone ulx="1893" uly="41" lrx="2266" lry="322">><!-- zone 3 -->
+         <zone corresp="#zone_3" ulx="1893" uly="41" lrx="2266" lry="322">><!-- zone 3 -->
             <line>Siri år 1938</line>
             <line>50 år GAMMA </line>
             <line>Siri år 1945 </line>
@@ -402,7 +403,7 @@
             Hur taggar vi konstverk? Filen accepterar inte taggen-->
          </zone>
 
-         <zone ulx="41" uly="301" lrx="596" lry="756"><!-- zone 4 -->
+         <zone corresp="#zone_4" ulx="41" uly="301" lrx="596" lry="756"><!-- zone 4 -->
             <line>STATION IV :</line>
             <line>1934 - 1935</line>
             <line>(Ninnans Ateljé)</line>
@@ -410,32 +411,32 @@
             <line>(Ninnans Ateljé)</line>
          </zone>
 
-         <zone ulx="621" uly="309" lrx="1888" lry="588"><!-- zone 5 -->
+         <zone corresp="#zone_5" ulx="621" uly="309" lrx="1888" lry="588"><!-- zone 5 -->
             <line>"GOTISK KUBISM" (Ljusmystik) . EN NY VARIANT </line>
-            <line>I SIRI DERKERTS TRÄVAN ATT REDUCERA OCH </line>
+            <line>I SIRI DERKERTS STRÄVAN ATT REDUCERA OCH </line>
             <line>MODIFIERA I PLAN ("Kubistisk accentuering")</line>
          </zone>
 
-         <zone ulx="609" uly="613" lrx="1120" lry="772"><!-- zone 6 -->
-            <line>Akv. Och Pasteller</line>
+         <zone corresp="#zone_6" ulx="609" uly="613" lrx="1120" lry="772"><!-- zone 6 -->
+            <line>Akv. och Pasteller</line>
             <line>1934 - 1935</line>
          </zone>
 
-         <zone ulx="613" uly="793" lrx="1264" lry="1292"><!-- zone 7 -->
+         <zone corresp="#zone_7" ulx="613" uly="793" lrx="1264" lry="1292"><!-- zone 7 -->
             <line>"gerda", helfigur</line>
-            <line>"[oläsligt, Susel?], helfigur</line>
+            <line>"Susel", helfigur</line>
             <line>"Sara„ helfigur</line>
             <line>"Carlo Spelar Piano"</line>
             <line>"Liv Spelar Piano"</line>
             <line>"STora SKOGAKVARELLER"</line>
          </zone>
 
-         <zone ulx="1501" uly="593" lrx="1888" lry="720"><!-- zone 8 -->
+         <zone corresp="#zone_8" ulx="1501" uly="593" lrx="1888" lry="720"><!-- zone 8 -->
             <line>Oljemåln.</line>
             <line>1935 - 1936.</line>
          </zone>
 
-         <zone ulx="1453" uly="733" lrx="2140" lry="1260"><!-- zone 9 -->
+         <zone corresp="#zone_9" ulx="1453" uly="733" lrx="2140" lry="1260"><!-- zone 9 -->
             <line>"Didi I aTeljén"</line>
             <line>"Självporträtt"</line>
             <line>"Gräshoppan"</line>
@@ -444,44 +445,44 @@
             <line>([oläsligt]meditation[?])</line>
          </zone>
 
-         <zone ulx="565" uly="1309" lrx="2260" lry="1768"><!-- zone 10 -->
+         <zone corresp="#zone_10" ulx="565" uly="1309" lrx="2260" lry="1768"><!-- zone 10 -->
             <line>(DET VAR PÅ SENSOMMAREN 1934 SOM SIRI OCH BARNEN -</line>
             <line>Efter 1 månad på [oläsligt] - ÅTER SAMMANTRÄFFAR MED</line>
             <line>FAMILJEN HEDSTRÖM PÅ SIMPNÄS. - VINTERN 1934- 1935</line>
-            <line>SITTER DE ALLA (gerda, [olæsligt, Susel?], [Maria/Marja?]) MODELL FÖR SIRI I </line>
+            <line>SITTER DE ALLA (gerda, Susel, [Maria/Marja?]) MODELL FÖR SIRI I </line>
             <line>NINNANS ATELJÉ. ... ANDRA MODELLER: Kusinerna, Liv o.sv</line>
          </zone>
 
-         <zone ulx="69" uly="1789" lrx="1224" lry="2204"><!-- zone 11 -->
+         <zone corresp="#zone_11" ulx="69" uly="1789" lrx="1224" lry="2204"><!-- zone 11 -->
             <line>En Kollektion teckningar från den-</line>
             <line>na period skickas till "Paris utställn."</line>
-            <line>år 1037. - Lundberg på Svenska In-</line>
+            <line>år 1937. - Lundberg på Svenska In-</line>
             <line>stitutet I Paris censurerar. Siris'</line>
             <line>teckningar hängs aldrig upp.</line>
          </zone>
 
-         <zone ulx="29" uly="1285" lrx="436" lry="1684"><!-- zone 11b -->
+         <zone corresp="#zone_11b" ulx="29" uly="1285" lrx="436" lry="1684"><!-- zone 11b -->
             <line>Där Picassos'</line>
             <line>Guernica hängs</line>
             <line>upp i början</line>
             <line>på juni</line>
          </zone>
 
-         <zone ulx="1285" uly="1785" lrx="2280" lry="2152"><!-- zone 12 -->
+         <zone corresp="#zone_12" ulx="1285" uly="1785" lrx="2280" lry="2152"><!-- zone 12 -->
             <line>En Serie "gotiska [oläsligt]" fr[xx]</line>
             <line>Ninnan Santesons ateljé ägs av</line>
             <line>Dr Izikawitz samt av Sara</line>
             <line>Dersand.</line>
          </zone>
 
-         <zone ulx="545" uly="2209" lrx="2212" lry="2528"><!-- zone 13a -->
+         <zone corresp="#zone_13a" ulx="545" uly="2209" lrx="2212" lry="2528"><!-- zone 13a -->
             <line>(EFTER PERIODEN I NINNANS ATELJÉ 1934 - 1936 FLYTTAR </line>
             <line>SIRI ÅTER TILL "LILLSTUGAN" = SISTA HALVÅRET 1936. FÅR</line>
             <line>DENNA HÖST ETT LITET RESESTIPENDIUM TILL PARIS - - </line>
             <line>ÅTERVÄNDER TILL SVERIGE OCH LILLSTUGAN VÅREN 1937. -OBS,</line>
          </zone>
 
-         <zone ulx="521" uly="2545" lrx="1812" lry="2904"><!-- zone 13b -->
+         <zone corresp="#zone_13b" ulx="521" uly="2545" lrx="1812" lry="2904"><!-- zone 13b -->
             <line>OBS: alla dessa teckningar från Parisresan</line>
             <line>t ex. hamnar i Antwerpen, 1936. Samt </line>
             <line>alla dessa teckningar från Ateljén</line>
@@ -489,20 +490,20 @@
             <line>Paris 36-37. ([oläsligt] [oläsligt] om Folkfronten)</line>
          </zone>
 
-         <zone ulx="33" uly="2357" lrx="428" lry="2740"><!-- zone 13c-->
+         <zone corresp="#zone_13c" ulx="33" uly="2357" lrx="428" lry="2740"><!-- zone 13c-->
             <line>jämför dottern</line>
             <line>Livs samtida</line>
             <line>teckningar.</line>
          </zone>
 
-         <zone ulx="37" uly="2901" lrx="528" lry="3276"><!-- zone 14 -->
+         <zone corresp="#zone_14" ulx="37" uly="2901" lrx="528" lry="3276"><!-- zone 14 -->
             <line>5. STATION IV</line>
             <line>Från hösten 1936</line>
             <line>till året 1938, då </line>
             <line>Liv dör.</line>
          </zone>
 
-         <zone ulx="549" uly="2909" lrx="2096" lry="3296"><!-- zone 15 -->
+         <zone corresp="#zone_15" ulx="549" uly="2909" lrx="2096" lry="3296"><!-- zone 15 -->
             <line>"ETT ARKITEKTONISKT FORMBYGGANDE MÅLERI" (OCH DITO</line>
             <line>TECKNINGAR) DOMINERAR UNDER DESSA TVÅ ÅR 1936-1938.</line>
             <line>(OBS: Borta är "inåtvändheten" och "ljus - rum"-</line>
