@@ -37,7 +37,7 @@
             <edition n="1​.0">
                <title>Version 1​.0.</title>
                <date when="2024">2024</date>
-               <note>Första versionen av En elektronisk transkribering av en fotostatkopia av ett brev från
+               <note>Första versionen av en elektronisk transkribering av en fotostatkopia av ett brev från
                      <persName ref="#CD">Carlo Derkert</persName> till <persName ref="#OG">Olle
                      Granath</persName> och <persName ref="#LN">Lars Nittve</persName>. I denna
                   första version är endast sida 12 av brevets totala 18 sidor transkriberad och
@@ -54,9 +54,8 @@
                <name><orgName ref="#HB">Bibliotekshögskolan, Högskolan i Borås</orgName></name>
                <addrLine> Högskolan i Borås, 501 90 Borås, Sverige</addrLine>
             </address>
-            <availability>
-               <p>???</p>
-               <!-- Fyll i standardformulering -->
+            <availability status="free">
+                  <p>In the public domain</p>
             </availability>
             <date>publishing date</date>
          </publicationStmt>
@@ -89,6 +88,21 @@
             <listPlace>
                <place xml:id="NA">
                   <placeName>Ninnans Ateljé</placeName>
+               </place>
+               <place xml:id="S">
+                  <placeName>Simpnäs</placeName>
+               </place>
+               <place xml:id="LS">
+                  <placeName>Lillstugan</placeName>
+               </place>
+               <place xml:id="AN">
+                  <placeName>Antwerpen</placeName>
+               </place>
+               <place xml:id="PS">
+                  <placeName>Paris</placeName>
+               </place>
+               <place xml:id="SE">
+                  <placeName>Sverige</placeName>
                </place>
             </listPlace>
          </sourceDesc>
@@ -261,7 +275,7 @@
    husk at skriv i rapport at man også kunne have givet kunstværker en URI-->
    <text>
       <body> 
-         <div type="sidehoved">
+         <div type="sidhuvud">
             <div xml:id=" zone_1">
                <head><persName ref="#SD">SIRI DERKERT</persName></head>
             <p><hi style="green highlight" hand="unknown">C.</hi></p>
@@ -319,7 +333,7 @@
             <div xml:id="zone_10">
                <p>(DET VAR PÅ SENSOMMAREN <date when="1934">1934</date> SOM <persName ref="#SD">SIRI</persName> OCH BARNEN -
                Efter 1 månad på [oläsligt] - <hi style="underlined" hand="#CD">ÅTER</hi> SAMMANTRÄFFAR MED
-               FAMILJEN HEDSTRÖM PÅ SIMPNÄS. - VINTERN <date from="1934" to="1935">1934- 1935</date>
+                  FAMILJEN HEDSTRÖM PÅ <placeName>SIMPNÄS</placeName>. - VINTERN <date from="1934" to="1935">1934- 1935</date>
                SITTER DE ALLA (gerda, Susel, [Maria/Marja?]) MODELL FÖR <persName ref="#SD">SIRI</persName> I 
                <placeName>NINNANS ATELJÉ</placeName>. ... <hi style="underlined" hand="#CD">ANDRA MODELLER:</hi> Kusinerna, <persName ref="#LD">Liv</persName> o.s.v</p>
                <!-- der mangler lidt af hver her -->
