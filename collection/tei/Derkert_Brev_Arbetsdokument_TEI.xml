@@ -190,10 +190,10 @@
                </person>
                <person>
                   <persName xml:id="PP">Pablo Picasso</persName>
-                </person>
+                 <!-- mangler flere oplysninger -->
+               </person>
                <person xml:id="SDe">
                   <persName>Sara Dersand</persName>
-		<note>det har ikke været muligt at skaffe bibliografiske oplysninger om Sara Dersand i dette projekt. For yderligere research er Kungliga biblioteket i Stockholm en mulighed, hvor hun figurerer i Catharina Nilsson-Gehlins brevsamling</note>
                </person>
             </listPerson>
             <listPerson type="digitalisering">
@@ -252,7 +252,15 @@
 
 
    </teiHeader>
-   <body> 
+
+<!-- Generelle noter til body: 
+   hvorfor kan man ikke bruge head undervejs? er der et alternativ?
+   skal orgnames og placesnames yderligere specificeres et sted i headeren?
+   skal vi bruge line eller lb?
+   korrektur ift svensk/dansk/engelsk
+   husk at skriv i rapport at man også kunne have givet kunstværker en URI-->
+   <text>
+      <body> 
          <div type="sidehoved">
             <div xml:id=" zone_1">
                <head><persName ref="#SD">SIRI DERKERT</persName></head>
@@ -293,7 +301,8 @@
                   <objectName type="artwork">"Sara„</objectName> helfigur
                <objectName type="artwork">"<persName ref="#CD">Carlo</persName> Spelar Piano"</objectName>
                <objectName type="artwork">"<persName ref="#LD">Liv</persName> Spelar Piano"</objectName>
-               <objectName type="artwork">"STora SKOGAKVARELLER"</objectName></p></div> 
+               <objectName type="artwork">"STora SKOGAKVARELLER"</objectName></p></div>
+            <!-- gerda og sara? -->  
             
             <div xml:id="zone_8">
                <head><hi style="box" hand="#CD">Oljemåln.
@@ -313,6 +322,7 @@
                FAMILJEN HEDSTRÖM PÅ SIMPNÄS. - VINTERN <date from="1934" to="1935">1934- 1935</date>
                SITTER DE ALLA (gerda, Susel, [Maria/Marja?]) MODELL FÖR <persName ref="#SD">SIRI</persName> I 
                <placeName>NINNANS ATELJÉ</placeName>. ... <hi style="underlined" hand="#CD">ANDRA MODELLER:</hi> Kusinerna, <persName ref="#LD">Liv</persName> o.s.v</p>
+               <!-- der mangler lidt af hver her -->
             </div>
             
             <div xml:id="zone_11">
