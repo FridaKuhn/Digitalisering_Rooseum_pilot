@@ -47,7 +47,7 @@
          <extent xmlns="http://www.tei-c.org/ns/1.0">????? Kb</extent>
          <publicationStmt>
             <publisher>
-               <orgName ref="#HB">Bibliotekshögskolan, Högskolan i Borås ????</orgName>
+               <orgName ref="#HB">Bibliotekshögskolan, Högskolan i Borås</orgName>
             </publisher>
             <pubPlace><placeName>Borås</placeName></pubPlace>
             <address>
@@ -140,10 +140,12 @@
                      <placeName>Neapel</placeName>
                   </birth>
                   <death>
-                     <date when="1994">1994</date>
+			  <date when="1994">1994</date>
                      <placeName>Stockholm</placeName>
                   </death>
-               </person>
+		  <occupation>kunsthistoriker</occupation>
+                  <note><persName ref="#SD">Siri Derkert</persName>'s sön</note>
+	       </person>
                <person xml:id="SD">
                   <persName>Siri Derkert</persName>
                   <birth>
@@ -154,7 +156,9 @@
                      <date when="1973">1973</date>
                      <placeName>Lidingö</placeName>
                   </death>
-               </person>
+		  <occupation>konstnär</occupation>
+                  <note>Moder till <persName ref="#CD">Carlo Derkert</persName> och <persName ref="#LD">Liv Derkert</persName></note>
+	       </person>
                <person xml:id="LD">
                   <persName>Liv Derkert</persName>
                   <birth>
@@ -164,15 +168,25 @@
                   <death>
                      <date when="1938">1938</date>
                      <placeName>Lidingö </placeName>
-                  </death>
-               </person>
+                  </death>	
+		  <occupation>konstnär</occupation>
+                  <note><persName ref="#SD">Siri Derkert</persName>'s dotter</note>
+	       </person>
                <person xml:id="OG">
                   <persName>Olle Granath</persName>
-                  <!--mangler flere oplysninger-->
+		  <birth>
+                     <date when="1940">1940</date>
+                     <placeName>Borås</placeName>
+                  </birth>
+		  <occupation>konstkritiker, museichef</occupation>
                </person>
                <person xml:id="LN">
                   <persName>Lars Nittve</persName>
-                  <!-- Manlger flere oplysninger -->
+		  <birth>
+                     <date when="1953">1953</date>
+                     <placeName>Stockholm</placeName>
+                  </birth>
+		  <occupation>konstkritiker, kurator, museichef</occupation>
                </person>
                <person>
                   <persName xml:id="PP">Pablo Picasso</persName>
