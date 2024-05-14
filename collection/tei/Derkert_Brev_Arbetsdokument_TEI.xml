@@ -135,13 +135,6 @@
          <langUsage>
             <language ident="SWE"/>
          </langUsage>
-         <textClass>
-            <keywords scheme="#AAT">
-               <term>Modernist</term>
-               <term>keyword example</term>
-            </keywords>
-            <classCode scheme="lc">JC 177</classCode>
-         </textClass>
          <particDesc>
             <listPerson type="dokument">
                <person xml:id="CD">
