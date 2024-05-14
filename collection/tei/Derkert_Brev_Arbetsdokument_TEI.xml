@@ -213,10 +213,7 @@
                </person>
                <person xml:id="SDe">
                   <persName>Sara Dersand</persName>
-                  <note><persName ref="#SD">Siri Derkert</persName>s dotter, född Sara Derkert. Vi har inte researchat
-                     mer på biografiska data angående henne. För ytterligare information om henne, se
-                     <ref target="https://arken.kb.se/SE-S-HS-Acc2009-93-7-13">Kungliga bibliotekets handsskriftssamling</ref>,
-                     där hon nämns i åtminstone ett dokument.
+                  <note><persName ref="#SD">Siri Derkert</persName>s dotter, född Sara Derkert. 
                   </note>   
                </person>
                <person xml:id="GLW">
@@ -275,6 +272,9 @@
                <org xml:id="SR">
                   <orgName>Stiftelsen Rooseum</orgName>
                </org>
+               <org xml:id="SIP">
+                  <orgName>Svenska institutet i Paris</orgName>
+               </org>
             </listOrg>
             <listOrg type="digitalisering">
                <org xml:id="MS">
@@ -283,9 +283,7 @@
                <org xml:id="HB">
                   <orgName>Högskolan i Borås</orgName>
                </org>
-               <org xml:id="SIP">
-                  <orgName>Svenska institutet i Paris</orgName>
-               </org>
+               
             </listOrg>
          </particDesc>
          <calendarDesc>
