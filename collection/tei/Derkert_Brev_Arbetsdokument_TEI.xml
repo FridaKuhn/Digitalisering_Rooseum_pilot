@@ -44,7 +44,9 @@
                   annoterad.</note>
             </edition>
          </editionStmt>
-         <extent xmlns="http://www.tei-c.org/ns/1.0">????? Kb</extent>
+         <extent>
+            <measure unit="pages" quantity="1">1 sida</measure>
+         </extent>
          <publicationStmt>
             <publisher>
                <orgName ref="#HB">Bibliotekshögskolan, Högskolan i Borås</orgName>
@@ -57,7 +59,7 @@
             <availability status="free">
                   <p>In the public domain</p>
             </availability>
-            <date>publishing date</date>
+            <date when="2024-05-22">Publikationsdatum 2024-05-22</date>
          </publicationStmt>
          <notesStmt>
             <note>Fotografering av det fysiska brevet genomfördes på <orgName ref="#MS">Stadsarkivet i Malmö</orgName>, med hjälp
@@ -120,11 +122,11 @@
             <p>Dokumentet (en enskild fotostatkopierad sida av ett brev på 18 handskrivna A4-sidor) valdes ut
                eftersom det anses representativt för brevet som helhet.</p>
          </samplingDecl>
-         <editorialDecl>
+         <editorialDecl> 
+            <p>Källdokumentet har följts vad gäller avstamningar, versaler och gemener etc. 
+               Elementet highlighted har använts vid understrykningar.</p>
             <p/>
-            <!-- Här ska vi beskriva hur vi har behandlat t.ex. citattecken, radbrytningar,
-               avstavningar, segment osv. Fylls i när vi är klara med kodningen av
-               body. -->
+            
          </editorialDecl>
       </encodingDesc>
 
@@ -285,16 +287,8 @@
             </calendar>
          </calendarDesc>
       </profileDesc>
-
-
-      <revisionDesc>
-         <change/>
-         <!-- Fråga Anton om detta ska vara med innan det görs en revidering -->
-      </revisionDesc>
-
-
+      
    </teiHeader>
-
    <text>
       <body> 
          <div type="sidhuvud">
