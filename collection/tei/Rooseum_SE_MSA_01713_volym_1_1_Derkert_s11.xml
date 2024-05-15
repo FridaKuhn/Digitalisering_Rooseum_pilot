@@ -7,9 +7,9 @@
 
       <fileDesc>
          <titleStmt>
-            <title>En elektronisk transkribering av en fotostatkopia av ett brev från <persName ref="#CD">Carlo
-                  Derkert</persName> till <persName ref="#OG">Olle Granath</persName> och <persName
-                  ref="#LN">Lars Nittve</persName>
+            <title>En elektronisk transkribering av en fotostatkopia av ett brev från <persName
+                  ref="#CD">Carlo Derkert</persName> till <persName ref="#OG">Olle
+                  Granath</persName> och <persName ref="#LN">Lars Nittve</persName>
             </title>
             <author>
                <persName ref="#CD">Carlo Derkert</persName>
@@ -37,11 +37,11 @@
             <edition n="1​.0">
                <title>Version 1​.0.</title>
                <date when="2024">2024</date>
-               <note>Första versionen av en elektronisk transkribering av en fotostatkopia av ett brev från
-                     <persName ref="#CD">Carlo Derkert</persName> till <persName ref="#OG">Olle
-                     Granath</persName> och <persName ref="#LN">Lars Nittve</persName>. I denna
-                  första version är endast sida 12 av brevets totala 18 sidor transkriberad och
-                  annoterad.</note>
+               <note>Första versionen av en elektronisk transkribering av en fotostatkopia av ett
+                  brev från <persName ref="#CD">Carlo Derkert</persName> till <persName ref="#OG"
+                     >Olle Granath</persName> och <persName ref="#LN">Lars Nittve</persName>. I
+                  denna första version är endast sida 11 av brevets totala 16 sidor transkriberad
+                  och annoterad.</note>
             </edition>
          </editionStmt>
          <extent>
@@ -57,13 +57,14 @@
                <addrLine> Högskolan i Borås, 501 90 Borås, Sverige</addrLine>
             </address>
             <availability status="free">
-                  <p>In the public domain</p>
+               <p>In the public domain</p>
             </availability>
             <date when="2024-05-22">Publikationsdatum 2024-05-22</date>
          </publicationStmt>
          <notesStmt>
-            <note>Fotografering av det fysiska brevet genomfördes på <orgName ref="#MS">Stadsarkivet i Malmö</orgName>, med hjälp
-               av bildarkivarie <persName ref="#TI">Tobias Idberg</persName>, den <date when="2024-02-12">12 februari 2024</date>.</note>
+            <note>Fotografering av det fysiska brevet genomfördes på <orgName ref="#MS">Stadsarkivet
+                  i Malmö</orgName>, med hjälp av bildarkivarie <persName ref="#TI">Tobias
+                  Idberg</persName>, den <date when="2024-02-12">12 februari 2024</date>.</note>
          </notesStmt>
          <sourceDesc>
             <msDesc>
@@ -71,13 +72,16 @@
                   <country xml:id="SWE">Sverige</country>
                   <settlement>Malmö</settlement>
                   <repository><orgName ref="#MS">Malmö Stadsarkiv</orgName></repository>
-                  <collection><orgName ref="#SR">Stiftelsen Rooseum</orgName>s sparade korrespondens <date from="1988" to="1990">1988-1990</date></collection>
+                  <collection><orgName ref="#SR">Stiftelsen Rooseum</orgName>s sparade korrespondens
+                        <date from="1988" to="1990">1988-1990</date></collection>
                   <idno>SE/MSA/01713 volym E 1:1</idno>
                </msIdentifier>
-               <head><persName ref="#SD">SIRI DERKERT</persName> C. "7 STATIONER PÅ EN KONSTNÄRS VÄG I 1900-TALSKONSTEN"</head>
+               <head><persName ref="#SD">SIRI DERKERT</persName> C. "7 STATIONER PÅ EN KONSTNÄRS VÄG
+                  I 1900-TALSKONSTEN"</head>
                <msContents>
-                  <p>En fotostatkopierad sida ur ett brev skrivet av <persName ref="#CD">Carlo Derkert</persName> innehållande en beskrivning av
-                     modern <persName ref="#SD">Siri Derkert</persName>s konstnärskap.</p>
+                  <p>En fotostatkopierad sida ur ett brev skrivet av <persName ref="#CD">Carlo
+                        Derkert</persName> innehållande en beskrivning av modern <persName ref="#SD"
+                        >Siri Derkert</persName>s konstnärskap.</p>
                </msContents>
                <physDesc>
                   <objectDesc>
@@ -114,26 +118,30 @@
          <projectDesc>
             <p>Det här dokumentet har digitaliserats som en del av ett projekt i kursen
                Digitalisering för bevarande och tillgänglighet som ingår i masterprogrammet i
-               biblioteks- och informationsvetenskap på <orgName ref="#HB">Högskolan i Borås</orgName> under vårterminen 2024.
-               Materialet kommer från samlingen med <orgName ref="#SB">Stiftelsen Rooseum</orgName>s sparade korrespondens
-               <date from="1988" to="1990">1988-1990</date> (SE/MSA/01713 volym E 1:1), som finns på <orgName ref="SR">Stadsarkivet i Malmö</orgName>.</p>
+               biblioteks- och informationsvetenskap på <orgName ref="#HB">Högskolan i
+                  Borås</orgName> under vårterminen 2024. Materialet kommer från samlingen med
+                  <orgName ref="#SB">Stiftelsen Rooseum</orgName>s sparade korrespondens <date
+                  from="1988" to="1990">1988-1990</date> (SE/MSA/01713 volym E 1:1), som finns på
+                  <orgName ref="SR">Stadsarkivet i Malmö</orgName>.</p>
          </projectDesc>
          <samplingDecl>
-            <p>Dokumentet (en enskild fotostatkopierad sida av ett brev på 18 handskrivna A4-sidor) valdes ut
-               eftersom det anses representativt för brevet som helhet.</p>
+            <p>Dokumentet (en enskild fotostatkopierad sida av ett brev på 16 handskrivna A4-sidor)
+               valdes ut eftersom det anses representativt för brevet som helhet.</p>
          </samplingDecl>
-         <editorialDecl> 
-            <p>Källdokumentet har följts vad gäller avstamningar, versaler och gemener etc. 
-               Elementet highlighted har använts vid understrykningar.</p>
+         <editorialDecl>
+            <p>Källdokumentet har följts vad gäller avstavningar, versaler och gemener etc.
+               Elementet highlighted med attributet style och värdet underlined har använts vid understrykningar. Elementet highlighted med
+               attributet style och värdet green highlight, green circle eller green underlining har använts vid ifyllningar och
+               understrykningar i grönt. Oläsliga passager har satts inom hakparentes med kommentaren "oläsligt".</p>
             <p/>
-            
          </editorialDecl>
       </encodingDesc>
 
 
       <profileDesc>
-         <creation>Brevet skrevs av <persName ref="#CD">Carlo Derkert</persName>, <persName ref="#SD">Siri Derkerts</persName> son, och skickades till <persName ref="#OG">Olle
-            Granath</persName> och <persName ref="#LN">Lars Nittve</persName>.</creation>
+         <creation>Brevet skrevs av <persName ref="#CD">Carlo Derkert</persName>, <persName
+               ref="#SD">Siri Derkerts</persName> son, och skickades till <persName ref="#OG">Olle
+               Granath</persName> och <persName ref="#LN">Lars Nittve</persName>.</creation>
          <langUsage>
             <language ident="SWE"/>
          </langUsage>
@@ -146,12 +154,12 @@
                      <placeName>Neapel</placeName>
                   </birth>
                   <death>
-			  <date when="1994">1994</date>
+                     <date when="1994">1994</date>
                      <placeName>Stockholm</placeName>
                   </death>
-		  <occupation>konsthistoriker</occupation>
+                  <occupation>konsthistoriker</occupation>
                   <note><persName ref="#SD">Siri Derkert</persName>s son</note>
-	       </person>
+               </person>
                <person xml:id="SD">
                   <persName>Siri Derkert</persName>
                   <birth>
@@ -162,9 +170,11 @@
                      <date when="1973">1973</date>
                      <placeName>Lidingö</placeName>
                   </death>
-		  <occupation>konstnär</occupation>
-                  <note>Mor till <persName ref="#CD">Carlo Derkert</persName>, <persName ref="#LD">Liv Derkert</persName> och <persName ref="#SDe">Sara Dersand</persName>, född Derkert.</note>
-	       </person>
+                  <occupation>konstnär</occupation>
+                  <note>Mor till <persName ref="#CD">Carlo Derkert</persName>, <persName ref="#LD"
+                        >Liv Derkert</persName> och <persName ref="#SDe">Sara Dersand</persName>,
+                     född Derkert.</note>
+               </person>
                <person xml:id="LD">
                   <persName>Liv Derkert</persName>
                   <birth>
@@ -174,29 +184,28 @@
                   <death>
                      <date when="1938">1938</date>
                      <placeName>Lidingö </placeName>
-                  </death>	
-		            <occupation>konstnär</occupation>
-                  <note><persName ref="#SD">Siri Derkert</persName>'s dotter</note>
-	       </person>
+                  </death>
+                  <occupation>konstnär</occupation>
+                  <note><persName ref="#SD">Siri Derkert</persName>s dotter</note>
+               </person>
                <person xml:id="OG">
                   <persName>Olle Granath</persName>
-	          	  <birth>
+                  <birth>
                      <date when="1940">1940</date>
                      <placeName>Borås</placeName>
                   </birth>
-		         <occupation>konstkritiker, museichef</occupation>
+                  <occupation>konstkritiker, museichef</occupation>
                </person>
                <person xml:id="LN">
                   <persName>Lars Nittve</persName>
-		            <birth>
+                  <birth>
                      <date when="1953">1953</date>
                      <placeName>Stockholm</placeName>
                   </birth>
-		  <occupation>konstkritiker, kurator, museichef</occupation>
+                  <occupation>konstkritiker, kurator, museichef</occupation>
                </person>
                <person>
-                  <persName xml:id="PP">Pablo Picasso
-                  </persName>
+                  <persName xml:id="PP">Pablo Picasso </persName>
                   <birth>
                      <date when="1881">1881</date>
                      <placeName>Malaga</placeName>
@@ -208,8 +217,8 @@
                </person>
                <person xml:id="SDe">
                   <persName>Sara Dersand</persName>
-                  <note><persName ref="#SD">Siri Derkert</persName>s dotter, född Sara Derkert. 
-                  </note>   
+                  <note><persName ref="#SD">Siri Derkert</persName>s dotter, född Sara Derkert.
+                  </note>
                </person>
                <person xml:id="GLW">
                   <persName>Gunnar W Lundberg</persName>
@@ -239,28 +248,26 @@
             <listPerson type="digitalisering">
                <person xml:id="HL">
                   <persName>Henning Lundquist</persName>
-                  <note>Studerende ved Högskolan i Borås</note>
+                  <note>Studerande vid Högskolan i Borås</note>
                </person>
                <person xml:id="HA">
                   <persName>Hanna Andersson</persName>
-                  <note>Studerende ved Högskolan i Borås</note>
+                  <note>Studerande vid Högskolan i Borås</note>
                </person>
                <person xml:id="FKN">
                   <persName>Frida Kuhn Nicolaisen</persName>
-                  <note>Studerende ved Högskolan i Borås</note>
+                  <note>Studerande vid Högskolan i Borås</note>
                </person>
                <person xml:id="ACB">
                   <persName>Anton Carlander Borgström</persName>
-                  <note>Lærer ved Högskolan i Borås</note>
+                  <note>Lärare vid Högskolan i Borås</note>
                </person>
                <person xml:id="IHK">
                   <persName>Ingvild Hovland Kaldal</persName>
-                  <note>Studerende ved Högskolan i Borås. Tidligere medlem af gruppen.</note>
+                  <note>Studerande vid Högskolan i Borås. Tidigare medlem i gruppen.</note>
                </person>
                <person>
-                  <persName xml:id="TI">
-                     Tobias Idberg
-                  </persName>
+                  <persName xml:id="TI"> Tobias Idberg </persName>
                </person>
             </listPerson>
             <listOrg type="dokument">
@@ -278,7 +285,7 @@
                <org xml:id="HB">
                   <orgName>Högskolan i Borås</orgName>
                </org>
-               
+
             </listOrg>
          </particDesc>
          <calendarDesc>
@@ -287,149 +294,174 @@
             </calendar>
          </calendarDesc>
       </profileDesc>
-      
+
    </teiHeader>
    <text>
-      <body> 
+      <body>
          <div type="sidhuvud">
             <div xml:id="zone_1">
-               <head><persName ref="#SD">SIRI DERKERT</persName></head>
-            <p><hi style="green highlight" hand="unknown">C.</hi></p>
+               <head><persName ref="#SD">SiRi DERKERT</persName></head>
+               <p><hi style="green highlight" hand="unknown">C.</hi></p>
             </div>
-            
-            <div xml:id="zone_2"><head>„7 STATIONER PÅ EN KONSTNÄRS >
-            VÄG i 1900-TALSKONSTEN"</head></div>
-            
+
+            <div xml:id="zone_2">
+               <head>"7 STATIONER PÅ EN KONSTNÄRS > VÄG i 1900-TALSKONSTEN"</head>
+            </div>
+
             <div xml:id="zone_3">
-               <p><persName ref="#SD">Siri</persName> år <date when="1938"><hi style="underlined" hand="#CD">1938</hi></date> 
-               50 år GAMMA 
-               <persName ref="#SD">Siri</persName> år <date when="1945"><hi style="underlined" hand="#CD">1945</hi></date> 
-            55 år GAMM</p></div>           
+               <p><persName ref="#SD">Siri</persName> år <date when="1938"><hi style="underlined"
+                        hand="#CD">1938</hi></date> 50 år GAMMA <persName ref="#SD">Siri</persName>
+                  år <date when="1945"><hi style="underlined" hand="#CD">1945</hi></date> 55 år
+                  GAMM</p>
+            </div>
          </div>
-         
+
          <div type="4_station_IV">
-           <div xml:id="zone_4"> 
-              <head><hi style="underlined" hand="#CD"><hi style="green circle" hand="unknown">4.</hi> STATION IV</hi> :</head> 
-            <p> <date from="1934" to="1935">1934 - 1935</date> 
-               (<placeName>(<persName ref="#NS">Ninnans</persName> Ateljé</placeName>) 
-            <date from="1935" to="1936">1935 - 1936</date>
-               (<placeName>(<persName ref="#NS">Ninnans</persName> Ateljé</placeName>)
-            </p></div>
-            
+            <div xml:id="zone_4">
+               <head><hi style="underlined" hand="#CD"><hi style="green circle" hand="unknown"
+                        >4.</hi> STATION IV</hi> :</head>
+               <p>
+                  <date from="1934" to="1935">1934 - 1935</date> (<placeName>(<persName ref="#NS"
+                        >Ninnans</persName> Ateljé</placeName>) <date from="1935" to="1936">1935 -
+                     1936</date> (<placeName>(<persName ref="#NS">Ninnans</persName>
+                     Ateljé</placeName>) </p>
+            </div>
+
             <div xml:id="zone_5">
-               <p>"<hi style="green underlining" hand="unknown"><hi style="underlined" hand="#CD">GOTISK KUBISM</hi>" (Ljusmystik) .  EN NY VARIANT 
-               I <persName ref="#SD">SIRI DERKERT</persName>S STRÄVAN ATT REDUCERA OCH 
-               MODIFIERA I PLAN</hi> ("Kubistisk accentuering") </p></div>
-           
-           <div xml:id="zone_6">
-              <head><hi style="box" hand="#CD">Akv. och Pasteller
-           <date from="1934" to="1935">1934 - 1935</date></hi></head></div>
-            
+               <p>"<hi style="green underlining" hand="unknown"><hi style="underlined" hand="#CD"
+                        >GOTISK KUBiSM</hi>" (Ljusmystik) . EN NY VARiANT i <persName ref="#SD">SiRi
+                        DERKERT</persName>S STRÄVAN ATT REDUCERA OCH MODIFIERA i PLAN</hi>
+                  ("Kubistisk accentuering") </p>
+            </div>
+
+            <div xml:id="zone_6">
+               <head><hi style="box" hand="#CD">Akv. och Pasteller <date from="1934" to="1935">1934
+                        - 1935</date></hi></head>
+            </div>
+
             <div xml:id="zone_7">
-               <p><objectName type="artwork">"<persName>gerda</persName>"</objectName>, helfigur
-                  <objectName type="artwork">"<persName>"Susel"</persName>"</objectName>, helfigur
-                  <objectName type="artwork">"<persName ref="#SD">Sara</persName>„</objectName> helfigur
-               <objectName type="artwork">"<persName ref="#CD">Carlo</persName> Spelar Piano"</objectName>
-               <objectName type="artwork">"<persName ref="#LD">Liv</persName> Spelar Piano"</objectName>
-               <objectName type="artwork">"STora SKOGAKVARELLER"</objectName></p></div> 
-            
+               <p>"<objectName type="artwork"><persName>gerda</persName></objectName>", helfigur
+                     "<objectName type="artwork"><persName>Susel</persName></objectName>",
+                  helfigur "<objectName type="artwork"><persName ref="#SD"
+                     >Sara</persName></objectName>" helfigur "<objectName type="artwork"><persName
+                        ref="#CD">Carlo</persName> Spelar Piano</objectName>"
+                  "<objectName type="artwork"><persName ref="#LD">Liv</persName> Spelar
+                     Piano</objectName>"
+                  "<objectName type="artwork">STora SKOGAKVARELLER</objectName>"</p>
+            </div>
+
             <div xml:id="zone_8">
-               <head><hi style="box" hand="#CD">Oljemåln.
-               <date from="1935" to="1936">1935 - 1936</date>.</hi></head></div>
-            
+               <head><hi style="box" hand="#CD">Oljemåln. <date from="1935" to="1936">1935 -
+                        1936</date>.</hi></head>
+            </div>
+
             <div xml:id="zone_9">
-               <p><objectName type="artwork">"<persName>Didi</persName> I aTeljén"</objectName>,
-               <objectName type="artwork">"Självporträtt"</objectName>,
-               <objectName type="artwork">"Gräshoppan"</objectName>,
-               <objectName type="artwork">"Skygg [oläsligt]"</objectName>,
-                  <objectName type="artwork">"<persName ref="#CD">Carlo</persName> läser konsthistoria"</objectName>,
-               <objectName type="artwork">([oläsligt]meditation[?])</objectName>,</p></div>
-            
+               <p>"<objectName type="artwork"><persName>Didi</persName> i aTeljén</objectName>"
+                     "<objectName type="artwork">Självporträtt</objectName>" "<objectName
+                     type="artwork">Gräshoppan</objectName>" "<objectName type="artwork">Skygg
+                     gosse</objectName>" "<objectName type="artwork"><persName ref="#CD"
+                        >Carlo</persName> läser konsthistoria</objectName>" <objectName
+                     type="artwork">([oläsligt]meditation[?])</objectName></p>
+            </div>
+
             <div xml:id="zone_10">
-               <p>(DET VAR PÅ SENSOMMAREN <date when="1934">1934</date> SOM <persName ref="#SD">SIRI</persName> OCH BARNEN -
-               Efter 1 månad på [oläsligt] - <hi style="underlined" hand="#CD">ÅTER</hi> SAMMANTRÄFFAR MED
-                  FAMILJEN <persName>HEDSTRÖM</persName> PÅ <placeName>SIMPNÄS</placeName>. - VINTERN <date from="1934" to="1935">1934- 1935</date>
-                  SITTER DE ALLA (<persName>gerda</persName>, <persName>Susel</persName>, [Maria/Marja?]) MODELL FÖR <persName ref="#SD">SIRI</persName> I 
-                  <placeName><persName ref="NS">NINNANS</persName> ATELJÉ</placeName>. ... <hi style="underlined" hand="#CD">ANDRA MODELLER:</hi> Kusinerna, <persName ref="#LD">Liv</persName> o.s.v</p>
+               <p>(DET VAR PÅ SENSOMMAREN <date when="1934">1934</date> SOM <persName ref="#SD"
+                     >SIRI</persName> OCH BARNEN - efter 1 månad på [oläsligt] - <hi
+                     style="underlined" hand="#CD">ÅTER</hi> SAMMANTRÄFFAR MED FAMILJEN
+                     <persName>HEDSTRÖM</persName> PÅ <placeName>SIMPNÄS</placeName>. - VINTERN
+                     <date from="1934" to="1935">1934- 1935</date> SITTER DE ALLA
+                     (<persName>gerda</persName>, <persName>Susel</persName>, Marja) MODELL
+                  FÖR <persName ref="#SD">SiRi</persName> i <placeName><persName ref="NS"
+                        >NiNNANS</persName> ATELJÉ</placeName>. ... <hi style="underlined"
+                     hand="#CD">ANDRA MODELLER:</hi> Kusinerna, <persName ref="#LD">Liv</persName>
+                  o.s.v</p>
             </div>
-            
+
             <div xml:id="zone_11">
-               <p>- En Kollektion teckningar <hi style="underlined" hand="#CD">från den-
-                  na period</hi> skickas till <hi style="underlined" hand="#CD">"<eventName><placeName>Paris</placeName> utställn.</eventName>"
-                  år <date when="1937">1937</date>.</hi> - <persName ref="#GWL">Lundberg</persName> på <orgName ref="#SIP">Svenska In-
-                     stitutet I <placeName>Paris</placeName></orgName> censurerar. <persName ref="#SD">Siri</persName>s'
-               teckningar hängs aldrig upp.</p>
+               <p>- En Kollektion teckningar <hi style="underlined" hand="#CD">från den- na
+                     period</hi> skickas till <hi style="underlined" hand="#CD"
+                           >"<eventName><placeName>Paris</placeName> utställn.</eventName>" år <date
+                        when="1937">1937</date>.</hi> - <persName ref="#GWL">Lundberg</persName> på
+                     <orgName ref="#SIP">Svenska In- stitutet i
+                     <placeName>Paris</placeName></orgName> censurerar. <persName ref="#SD"
+                     >Siri</persName>s' teckningar hängs aldrig upp.</p>
             </div>
-            
+
             <div xml:id="zone_11b">
-               <p>Där <persName ref="#PP">Picasso</persName>s' 
-               <objectName type="artwork">Guernica</objectName> hängs 
-               upp i början 
-               på <date when="1937-06">juni</date></p>
+               <p>Där <persName ref="#PP">Picasso</persName>s' <objectName type="artwork"
+                     >Guernica</objectName> hängs upp i början på <date when="1937-06"
+                  >juni</date></p>
             </div>
-            
+
             <div xml:id="zone_12">
                <p>En Serie <hi style="underlined" hand="#CD">"gotiska [oläsligt]"</hi> fr[xx]
-                  <persName ref="#NS">Ninnan Santeson</persName>s <placeName>ateljé</placeName> ägs av 
-                  <persName>Dr Izikawitz</persName> samt av <persName ref="#SD">Sara 
+                     <persName ref="#NS">Ninnan Santeson</persName>s <placeName>ateljé</placeName>
+                  ägs av <persName>Dr Yzikawitz</persName> samt av <persName ref="#SD">Sara
                      Dersand</persName>.</p>
             </div>
-            
+
             <div xml:id="zone_13a">
-               <p>(EFTER PERIODEN I <placeName><persName ref="NS">NINNANS</persName> ATELJÉ</placeName> <date from="1934" to="1936">1934 - 1936</date> FLYTTAR 
-               <persName ref="#SD">SIRI</persName> ÅTER TILL "<placeName>LILLSTUGAN</placeName>" = SISTA HALVÅRET <date when="1936">1936</date>. FÅR 
-               DENNA HÖST ETT LITET RESESTIPENDIUM <hi style="green underlining" hand="unknown">TILL <placeName>PARIS</placeName></hi> - - 
-               ÅTERVÄNDER TILL <placeName>SVERIGE</placeName> OCH <placeName>LILLSTUGAN</placeName> VÅREN <date when="1937">1937</date>. -OBS,</p>
+               <p>(EFTER PERiODEN i <placeName><persName ref="NS">NiNNANS</persName>
+                     ATELJÉ</placeName>
+                  <date from="1934" to="1936">1934 - 1936</date> FLYTTAR <persName ref="#SD"
+                     >SiRi</persName> ÅTER TiLL "<placeName>LiLLSTUGAN</placeName>" = SiSTA HALVÅRET
+                     <date when="1936">1936</date>. FÅR DENNA HÖST ETT LiTET RESESTiPENDiUM <hi
+                     style="green underlining" hand="unknown">TiLL <placeName>PARiS</placeName></hi>
+                  - - ÅTERVÄNDER TiLL <placeName>SVERiGE</placeName> OCH
+                     <placeName>LiLLSTUGAN</placeName> VÅREN <date when="1937">1937</date>.
+                  -OBS,</p>
             </div>
-            
+
             <div xml:id="zone_13b">
-               <p>OBS: <hi style="underlined" hand="#CD">alla</hi> dessa teckningar från <eventName><placeName>Paris</placeName>resan</eventName>
-               t ex. hamnar i <placeName>Antwerpen</placeName>, <date when="1936">1936</date>. Samt 
-               alla dessa teckningar <hi style="underlined" hand="#CD">från Ateljén 
-               om kaféliv</hi> och demonstrationer i 
-               <placeName>Paris</placeName> <date from="1936" to="1937">36-37</date>. ([oläsligt] [oläsligt] om Folkfronten)</p>
+               <p>OBS: <hi style="underlined" hand="#CD">alla</hi> dessa teckningar från
+                        <eventName><placeName>Paris</placeName>resan</eventName> t ex. Hamnen i
+                     <placeName>Antwerpen</placeName>, <date when="1936">1936</date>. Samt alla
+                  dessa teckningar <hi style="underlined" hand="#CD">från Ateljéer och kaféliv</hi>
+                  och demonstrationer i <placeName>Paris</placeName>
+                  <date from="1936" to="1937">36-37</date>. ([oläsligt] [oläsligt] och
+                  Folkfronten)</p>
             </div>
-            
+
             <div xml:id="zone_13c">
-               <p>jämför dottern 
-               <persName ref="#LD">Liv</persName>s samtida 
-               teckningar.</p>
+               <p>jämför dottern <persName ref="#LD">Liv</persName>s samtida teckningar.</p>
             </div>
          </div>
          <div type="5_station_IV">
             <div xml:id="zone_14">
-               <head><hi style="underlined" hand="#CD"><hi style="green cirkle" hand="unknown">5.</hi> STATION IV</hi></head> 
-               <p>Från hösten <date when="1936">1936</date>
-               till året <date when="1938">1938</date>, då 
-               <persName ref="#LD">Liv</persName> dör.</p>
+               <head><hi style="underlined" hand="#CD"><hi style="green circle" hand="unknown"
+                        >5.</hi> STATION IV</hi></head>
+               <p>Från hösten <date when="1936">1936</date> till året <date when="1938">1938</date>,
+                  då <persName ref="#LD">Liv</persName> dör.</p>
             </div>
-            
+
             <div xml:id="zone_15">
-               <p><hi style="green underlining" hand="unknown"><hi style="" hand="#CD">"ETT ARKITEKTONISKT FORMBYGGANDE MÅLERI"</hi></hi> (OCH DITO
-               TECKNINGAR) DOMINERAR UNDER DESSA TVÅ ÅR <date from="1936" to="1938">1936-1938</date>.
-               (OBS: <hi style="underlined" hand="#CD">Borta är</hi> "inåtvändheten" och "ljus - rum"-
-                  Mystiken från <placeName><persName ref="#NS">Ninnans</persName> stora Ateljé</placeName> <date from="1934" to="1936">1934 - 36</date>.)</p>
+               <p><hi style="green underlining" hand="unknown"><hi style="" hand="#CD">"ETT
+                        ARKiTEKTONiSKT FORMBYGGANDE MÅLERi"</hi></hi> (OCH DiTO TECKNiNGAR)
+                  DOMiNERAR UNDER DESSA TVÅ ÅR <date from="1936" to="1938">1936-1938</date>. (OBS:
+                     <hi style="underlined" hand="#CD">Borta är</hi> "inåtvändheten" och "ljus -
+                  rum"- mystiken från <placeName><persName ref="#NS">Ninnans</persName> stora
+                     Ateljé</placeName>
+                  <date from="1934" to="1936">1934 - 36</date>.)</p>
             </div>
          </div>
       </body>
    </text>
-   
+
    <sourceDoc>
       <surface ulx="0" uly="0" lrx="2370" lry="3307">
          <graphic
             url="https://github.com/FridaKuhn/Digitalisering_Rooseum_pilot/blob/71f61c23770d9be0db0c24e8d0cf09ddbedc9f5d/collection/img/Rooseum_SE_MSA_01713_volym_1_1_Derkert_s11.jpg"/>
          <zone ulx="613" uly="793" lrx="1248" lry="1288"/>
          <zone ulx="41" uly="301" lrx="596" lry="756"/>
-         <zone></zone>
-         
+         <zone/>
+
          <zone corresp="#zone_1" ulx="33" uly="27" lrx="646" lry="290"><!-- zone 1 -->
-            <line>SIRI DERKERT</line>
-            <line>C</line>
-            
+            <line>SiRi DERKERT</line>
+            <line>C.</line>
          </zone>
 
          <zone corresp="#zone_2" ulx="699" uly="31" lrx="1840" lry="256"><!-- zone 2 -->
-            <line>"7 STATIONER PÅ EN KONSTNÄRS</line>
+            <line>"7 STATiONER PÅ EN KONSTNÄRS</line>
             <line>VÄG i 1900-TALSKONSTEN"</line>
          </zone>
 
@@ -441,7 +473,7 @@
          </zone>
 
          <zone corresp="#zone_4" ulx="41" uly="301" lrx="596" lry="756"><!-- zone 4 -->
-            <line>STATION IV :</line>
+            <line>4. STATION IV :</line>
             <line>1934 - 1935</line>
             <line>(Ninnans Ateljé)</line>
             <line>1935 - 1936</line>
@@ -449,9 +481,9 @@
          </zone>
 
          <zone corresp="#zone_5" ulx="621" uly="309" lrx="1888" lry="588"><!-- zone 5 -->
-            <line>"GOTISK KUBISM" (Ljusmystik) . EN NY VARIANT </line>
-            <line>I SIRI DERKERTS STRÄVAN ATT REDUCERA OCH </line>
-            <line>MODIFIERA I PLAN ("Kubistisk accentuering")</line>
+            <line>"GOTiSK KUBiSM" (Ljusmystik) . EN NY VARiANT </line>
+            <line>i SiRi DERKERTS STRÄVAN ATT REDUCERA OCH </line>
+            <line>MODiFiERA i PLAN ("Kubistisk accentuering")</line>
          </zone>
 
          <zone corresp="#zone_6" ulx="609" uly="613" lrx="1120" lry="772"><!-- zone 6 -->
@@ -462,7 +494,7 @@
          <zone corresp="#zone_7" ulx="613" uly="793" lrx="1264" lry="1292"><!-- zone 7 -->
             <line>"gerda", helfigur</line>
             <line>"Susel", helfigur</line>
-            <line>"Sara„ helfigur</line>
+            <line>"Sara" helfigur</line>
             <line>"Carlo Spelar Piano"</line>
             <line>"Liv Spelar Piano"</line>
             <line>"STora SKOGAKVARELLER"</line>
@@ -474,27 +506,27 @@
          </zone>
 
          <zone corresp="#zone_9" ulx="1453" uly="733" lrx="2140" lry="1260"><!-- zone 9 -->
-            <line>"Didi I aTeljén"</line>
+            <line>"Didi i aTeljén"</line>
             <line>"Självporträtt"</line>
             <line>"Gräshoppan"</line>
-            <line>"Skygg [oläsligt]"</line>
+            <line>"Skygg gosse"</line>
             <line>"Carlo läser konsthistoria"</line>
             <line>([oläsligt]meditation[?])</line>
          </zone>
 
          <zone corresp="#zone_10" ulx="565" uly="1309" lrx="2260" lry="1768"><!-- zone 10 -->
-            <line>(DET VAR PÅ SENSOMMAREN 1934 SOM SIRI OCH BARNEN -</line>
-            <line>Efter 1 månad på [oläsligt] - ÅTER SAMMANTRÄFFAR MED</line>
-            <line>FAMILJEN HEDSTRÖM PÅ SIMPNÄS. - VINTERN 1934- 1935</line>
-            <line>SITTER DE ALLA (gerda, Susel, [Maria/Marja?]) MODELL FÖR SIRI I </line>
-            <line>NINNANS ATELJÉ. ... ANDRA MODELLER: Kusinerna, Liv o.sv</line>
+            <line>(DET VAR PÅ SENSOMMAREN 1934 SOM SiRi OCH BARNEN -</line>
+            <line>efter 1 månad på [oläsligt] - ÅTER SAMMANTRÄFFAR MED</line>
+            <line>FAMiLJEN HEDSTRÖM PÅ SiMPNÄS. - ViNTERN 1934- 1935</line>
+            <line>SiTTER DE ALLA (gerda, Susel, Marja) MODELL FÖR SiRi i </line>
+            <line>NiNNANS ATELJÉ. ... ANDRA MODELLER: Kusinerna, Liv o.s.v</line>
          </zone>
 
          <zone corresp="#zone_11" ulx="69" uly="1789" lrx="1224" lry="2204"><!-- zone 11 -->
             <line>En Kollektion teckningar från den-</line>
             <line>na period skickas till "Paris utställn."</line>
             <line>år 1937. - Lundberg på Svenska In-</line>
-            <line>stitutet I Paris censurerar. Siris'</line>
+            <line>stitutet i Paris censurerar. Siris'</line>
             <line>teckningar hängs aldrig upp.</line>
          </zone>
 
@@ -508,7 +540,7 @@
          <zone corresp="#zone_12" ulx="1285" uly="1785" lrx="2280" lry="2152"><!-- zone 12 -->
             <line>En Serie "gotiska [oläsligt]" fr[xx]</line>
             <line>Ninnan Santesons ateljé ägs av</line>
-            <line>Dr Izikawitz samt av Sara</line>
+            <line>Dr Yzikawitz samt av Sara</line>
             <line>Dersand.</line>
          </zone>
 
@@ -541,10 +573,10 @@
          </zone>
 
          <zone corresp="#zone_15" ulx="549" uly="2909" lrx="2096" lry="3296"><!-- zone 15 -->
-            <line>"ETT ARKITEKTONISKT FORMBYGGANDE MÅLERI" (OCH DITO</line>
-            <line>TECKNINGAR) DOMINERAR UNDER DESSA TVÅ ÅR 1936-1938.</line>
+            <line>"ETT ARKiTEKTONiSKT FORMBYGGANDE MÅLERi" (OCH DiTO</line>
+            <line>TECKNiNGAR) DOMiNERAR UNDER DESSA TVÅ ÅR 1936-1938.</line>
             <line>(OBS: Borta är "inåtvändheten" och "ljus - rum"-</line>
-            <line>Mystiken från Ninnans stora Ateljé 1934- 36.)</line>
+            <line>mystiken från Ninnans stora Ateljé 1934- 36.)</line>
          </zone>
 
       </surface>
