@@ -381,8 +381,8 @@
 
             <div xml:id="zone_11">
                <p>- En Kollektion teckningar <hi style="underlined" hand="#CD">från den- na
-                     period</hi> skickas till <hi style="underlined" hand="#CD"
-                           >"<eventName><placeName ref="#PS">Paris</placeName> utställn.</eventName>" år <date
+                     period</hi> skickas till <hi style="underlined" hand="#CD">
+                           <eventName><placeName ref="#PS">Paris</placeName> utställn.</eventName>" år <date
                         when="1937">1937</date>.</hi> - <persName ref="#GWL">Lundberg</persName> på
                      <orgName ref="#SIP">Svenska In- stitutet i
                      <placeName ref="#PS">Paris</placeName></orgName> censurerar. <persName ref="#SD"
