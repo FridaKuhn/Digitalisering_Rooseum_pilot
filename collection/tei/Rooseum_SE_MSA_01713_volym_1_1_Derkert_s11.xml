@@ -396,7 +396,7 @@
             </div>
 
             <div xml:id="zone_12">
-               <p>En Serie <hi style="underlined" hand="#CD">"gotiska [oläsligt]"</hi> fr[xx]
+               <p>En Serie <hi style="underlined" hand="#CD">"gotiska porträtt"</hi> från
                      <persName ref="#NS">Ninnan Santeson</persName>s <placeName>ateljé</placeName>
                   ägs av <persName>Dr Yzikawitz</persName> samt av <persName ref="#SD">Sara
                      Dersand</persName>.</p>
@@ -420,7 +420,7 @@
                      <placeName>Antwerpen</placeName>, <date when="1936">1936</date>. Samt alla
                   dessa teckningar <hi style="underlined" hand="#CD">från Ateljéer och kaféliv</hi>
                   och demonstrationer i <placeName>Paris</placeName>
-                  <date from="1936" to="1937">36-37</date>. (Leon Blum och
+                  <date from="1936" to="1937">36-37</date>. (<persName>Leon Blum</persName> och
                   Folkfronten)</p>
             </div>
 
@@ -540,17 +540,17 @@
          </zone>
 
          <zone corresp="#zone_12" ulx="1285" uly="1785" lrx="2280" lry="2152"><!-- zone 12 -->
-            <line>En Serie "gotiska [oläsligt]" fr[xx]</line>
+            <line>En Serie "gotiska porträtt" från</line>
             <line>Ninnan Santesons ateljé ägs av</line>
             <line>Dr Yzikawitz samt av Sara</line>
             <line>Dersand.</line>
          </zone>
 
          <zone corresp="#zone_13a" ulx="545" uly="2209" lrx="2212" lry="2528"><!-- zone 13a -->
-            <line>(EFTER PERIODEN I NINNANS ATELJÉ 1934 - 1936 FLYTTAR </line>
-            <line>SIRI ÅTER TILL "LILLSTUGAN" = SISTA HALVÅRET 1936. FÅR</line>
-            <line>DENNA HÖST ETT LITET RESESTIPENDIUM TILL PARIS - - </line>
-            <line>ÅTERVÄNDER TILL SVERIGE OCH LILLSTUGAN VÅREN 1937. -OBS,</line>
+            <line>(EFTER PERiODEN i NiNNANS ATELJÉ 1934 - 1936 FLYTTAR </line>
+            <line>SiRi ÅTER TILL "LiLLSTUGAN" = SiSTA HALVÅRET 1936. FÅR</line>
+            <line>DENNA HÖST ETT LiTET RESESTiPENDiUM TiLL PARiS - - </line>
+            <line>ÅTERVÄNDER TiLL SVERiGE OCH LiLLSTUGAN VÅREN 1937. -OBS,</line>
          </zone>
 
          <zone corresp="#zone_13b" ulx="521" uly="2545" lrx="1812" lry="2904"><!-- zone 13b -->
