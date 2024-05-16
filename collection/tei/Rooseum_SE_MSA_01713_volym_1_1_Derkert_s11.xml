@@ -94,6 +94,7 @@
             <listPlace>
                <place xml:id="NA">
                   <placeName>Ninnans Ateljé</placeName>
+                  <note>Ataljé tillhörande <persName ref="#NS">Ninnan Santesson</persName></note>
                </place>
                <place xml:id="S">
                   <placeName>Simpnäs</placeName>
@@ -149,6 +150,7 @@
             <listPerson type="dokument">
                <person xml:id="CD">
                   <persName>Carlo Derkert</persName>
+                  <persName>Carl Valdemar Derkert</persName>
                   <birth>
                      <date when="1915">1915</date>
                      <placeName>Neapel</placeName>
@@ -158,7 +160,7 @@
                      <placeName>Stockholm</placeName>
                   </death>
                   <occupation>konsthistoriker</occupation>
-                  <note><persName ref="#SD">Siri Derkert</persName>s son</note>
+                  <note><persName ref="#SD">Siri Derkert</persName>s son.</note>
                </person>
                <person xml:id="SD">
                   <persName>Siri Derkert</persName>
@@ -221,7 +223,7 @@
                   </note>
                </person>
                <person xml:id="GLW">
-                  <persName>Gunnar W Lundberg</persName>
+                  <persName>Gunnar W. Lundberg</persName>
                   <birth>
                      <date when="1903">1903</date>
                      <placeName>Södertälje</placeName>
@@ -380,10 +382,10 @@
             <div xml:id="zone_11">
                <p>- En Kollektion teckningar <hi style="underlined" hand="#CD">från den- na
                      period</hi> skickas till <hi style="underlined" hand="#CD"
-                           >"<eventName><placeName>Paris</placeName> utställn.</eventName>" år <date
+                           >"<eventName><placeName ref="#PS">Paris</placeName> utställn.</eventName>" år <date
                         when="1937">1937</date>.</hi> - <persName ref="#GWL">Lundberg</persName> på
                      <orgName ref="#SIP">Svenska In- stitutet i
-                     <placeName>Paris</placeName></orgName> censurerar. <persName ref="#SD"
+                     <placeName ref="#PS">Paris</placeName></orgName> censurerar. <persName ref="#SD"
                      >Siri</persName>s' teckningar hängs aldrig upp.</p>
             </div>
 
