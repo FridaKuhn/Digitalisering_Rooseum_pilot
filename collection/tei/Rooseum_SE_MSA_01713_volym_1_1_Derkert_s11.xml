@@ -94,7 +94,7 @@
             <listPlace>
                <place xml:id="NA">
                   <placeName>Ninnans Ateljé</placeName>
-                  <note>Ataljé tillhörande <persName ref="#NS">Ninnan Santesson</persName></note>
+                  <note>Ateljé tillhörande <persName ref="#NS">Ninnan Santesson</persName></note>
                </place>
                <place xml:id="S">
                   <placeName>Simpnäs</placeName>
@@ -332,7 +332,7 @@
             <div xml:id="zone_5">
                <p>"<hi style="green underlining" hand="unknown"><hi style="underlined" hand="#CD"
                         >GOTISK KUBiSM</hi>" (Ljusmystik) . EN NY VARiANT i <persName ref="#SD">SiRi
-                        DERKERT</persName>S STRÄVAN ATT REDUCERA OCH MODIFIERA i PLAN</hi>
+                        DERKERT</persName>S STRÄVAN ATT REDUCERA OCH MODiFiERA i PLAN</hi>
                   ("Kubistisk accentuering") </p>
             </div>
 
