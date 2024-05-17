@@ -302,12 +302,12 @@
       <body>
          <div type="sidhuvud">
             <div xml:id="zone_1">
-               <head><persName ref="#SD">SiRi DERKERT</persName></head>
+               <head><persName ref="#SD">SIRI DERKERT</persName></head>
                <p><hi style="green highlight" hand="unknown">C.</hi></p>
             </div>
 
             <div xml:id="zone_2">
-               <head>"7 STATIONER PÅ EN KONSTNÄRS > VÄG i 1900-TALSKONSTEN"</head>
+               <head>"7 STATIONER PÅ EN KONSTNÄRS > VÄG I 1900-TALSKONSTEN"</head>
             </div>
 
             <div xml:id="zone_3">
@@ -331,8 +331,8 @@
 
             <div xml:id="zone_5">
                <p>"<hi style="green underlining" hand="unknown"><hi style="underlined" hand="#CD"
-                        >GOTISK KUBiSM</hi>" (Ljusmystik) . EN NY VARiANT i <persName ref="#SD">SiRi
-                        DERKERT</persName>S STRÄVAN ATT REDUCERA OCH MODiFiERA i PLAN</hi>
+                        >GOTISK KUBISM</hi>" (Ljusmystik) . EN NY VARIANT I <persName ref="#SD">SIRI
+                        DERKERT</persName>S STRÄVAN ATT REDUCERA OCH MODIFIERA I PLAN</hi>
                   ("Kubistisk accentuering") </p>
             </div>
 
@@ -368,13 +368,13 @@
 
             <div xml:id="zone_10">
                <p>(DET VAR PÅ SENSOMMAREN <date when="1934">1934</date> SOM <persName ref="#SD"
-                     >SiRi</persName> OCH BARNEN - efter 1 månad på [oläsligt] - <hi
-                     style="underlined" hand="#CD">ÅTER</hi> SAMMANTRÄFFAR MED FAMiLJEN
-                     <persName>HEDSTRÖM</persName> PÅ <placeName>SiMPNÄS</placeName>. - ViNTERN
-                     <date from="1934" to="1935">1934- 1935</date> SiTTER DE ALLA
+                     >SIRI</persName> OCH BARNEN - efter 1 månad på [oläsligt] - <hi
+                     style="underlined" hand="#CD">ÅTER</hi> SAMMANTRÄFFAR MED FAMILJEN
+                     <persName>HEDSTRÖM</persName> PÅ <placeName>SIMPNÄS</placeName>. - VINTERN
+                     <date from="1934" to="1935">1934- 1935</date> SITTER DE ALLA
                      (<persName>gerda</persName>, <persName>Susel</persName>, Marja) MODELL
-                  FÖR <persName ref="#SD">SiRi</persName> i <placeName><persName ref="NS"
-                        >NiNNANS</persName> ATELJÉ</placeName>. ... <hi style="underlined"
+                  FÖR <persName ref="#SD">SIRI</persName> I <placeName><persName ref="NS"
+                        >NINNANS</persName> ATELJÉ</placeName>. ... <hi style="underlined"
                      hand="#CD">ANDRA MODELLER:</hi> Kusinerna, <persName ref="#LD">Liv</persName>
                   o.s.v</p>
             </div>
@@ -403,14 +403,14 @@
             </div>
 
             <div xml:id="zone_13a">
-               <p>(EFTER PERiODEN i <placeName><persName ref="NS">NiNNANS</persName>
+               <p>(EFTER PERIODEN I <placeName><persName ref="NS">NINNANS</persName>
                      ATELJÉ</placeName>
                   <date from="1934" to="1936">1934 - 1936</date> FLYTTAR <persName ref="#SD"
-                     >SiRi</persName> ÅTER TiLL "<placeName>LiLLSTUGAN</placeName>" = SiSTA HALVÅRET
-                     <date when="1936">1936</date>. FÅR DENNA HÖST ETT LiTET RESESTiPENDiUM <hi
-                     style="green underlining" hand="unknown">TiLL <placeName>PARiS</placeName></hi>
-                  - - ÅTERVÄNDER TiLL <placeName>SVERiGE</placeName> OCH
-                     <placeName>LiLLSTUGAN</placeName> VÅREN <date when="1937">1937</date>.
+                     >SIRI</persName> ÅTER TILL "<placeName>LILLSTUGAN</placeName>" = SISTA HALVÅRET
+                     <date when="1936">1936</date>. FÅR DENNA HÖST ETT LITET RESESTIPENDIUM <hi
+                     style="green underlining" hand="unknown">TILL <placeName>PARIS</placeName></hi>
+                  - - ÅTERVÄNDER TILL <placeName>SVERIGE</placeName> OCH
+                     <placeName>LILLSTUGAN</placeName> VÅREN <date when="1937">1937</date>.
                   -OBS,</p>
             </div>
 
@@ -438,8 +438,8 @@
 
             <div xml:id="zone_15">
                <p><hi style="green underlining" hand="unknown"><hi style="" hand="#CD">"ETT
-                        ARKiTEKTONiSKT FORMBYGGANDE MÅLERi"</hi></hi> (OCH DiTO TECKNiNGAR)
-                  DOMiNERAR UNDER DESSA TVÅ ÅR <date from="1936" to="1938">1936-1938</date>. (OBS:
+                        ARKITEKTONISKT FORMBYGGANDE MÅLERI"</hi></hi> (OCH DITO TECKNINGAR)
+                  DOMINERAR UNDER DESSA TVÅ ÅR <date from="1936" to="1938">1936-1938</date>. (OBS:
                      <hi style="underlined" hand="#CD">Borta är</hi> "inåtvändheten" och "ljus -
                   rum"- mystiken från <placeName><persName ref="#NS">Ninnans</persName> stora
                      Ateljé</placeName>
@@ -458,13 +458,13 @@
          <zone/>
 
          <zone corresp="#zone_1" ulx="33" uly="27" lrx="646" lry="290"><!-- zone 1 -->
-            <line>SiRi DERKERT</line>
+            <line>SIRI DERKERT</line>
             <line>C.</line>
          </zone>
 
          <zone corresp="#zone_2" ulx="699" uly="31" lrx="1840" lry="256"><!-- zone 2 -->
-            <line>"7 STATiONER PÅ EN KONSTNÄRS</line>
-            <line>VÄG i 1900-TALSKONSTEN"</line>
+            <line>"7 STATIONER PÅ EN KONSTNÄRS</line>
+            <line>VÄG I 1900-TALSKONSTEN"</line>
          </zone>
 
          <zone corresp="#zone_3" ulx="1893" uly="41" lrx="2266" lry="322">><!-- zone 3 -->
@@ -483,9 +483,9 @@
          </zone>
 
          <zone corresp="#zone_5" ulx="621" uly="309" lrx="1888" lry="588"><!-- zone 5 -->
-            <line>"GOTiSK KUBiSM" (Ljusmystik) . EN NY VARiANT </line>
-            <line>i SiRi DERKERTS STRÄVAN ATT REDUCERA OCH </line>
-            <line>MODiFiERA i PLAN ("Kubistisk accentuering")</line>
+            <line>"GOTISK KUBISM" (Ljusmystik) . EN NY VARIANT </line>
+            <line>I SIRI DERKERTS STRÄVAN ATT REDUCERA OCH </line>
+            <line>MODIFIERA I PLAN ("Kubistisk accentuering")</line>
          </zone>
 
          <zone corresp="#zone_6" ulx="609" uly="613" lrx="1120" lry="772"><!-- zone 6 -->
@@ -517,11 +517,11 @@
          </zone>
 
          <zone corresp="#zone_10" ulx="565" uly="1309" lrx="2260" lry="1768"><!-- zone 10 -->
-            <line>(DET VAR PÅ SENSOMMAREN 1934 SOM SiRi OCH BARNEN -</line>
+            <line>(DET VAR PÅ SENSOMMAREN 1934 SOM SIRI OCH BARNEN -</line>
             <line>efter 1 månad på [oläsligt] - ÅTER SAMMANTRÄFFAR MED</line>
-            <line>FAMiLJEN HEDSTRÖM PÅ SiMPNÄS. - ViNTERN 1934- 1935</line>
-            <line>SiTTER DE ALLA (gerda, Susel, Marja) MODELL FÖR SiRi i </line>
-            <line>NiNNANS ATELJÉ. ... ANDRA MODELLER: Kusinerna, Liv o.s.v</line>
+            <line>FAMILJEN HEDSTRÖM PÅ SIMPNÄS. - VINTERN 1934- 1935</line>
+            <line>SITTER DE ALLA (gerda, Susel, Marja) MODELL FÖR SIRI I </line>
+            <line>NINNANS ATELJÉ. ... ANDRA MODELLER: Kusinerna, Liv o.s.v</line>
          </zone>
 
          <zone corresp="#zone_11" ulx="69" uly="1789" lrx="1224" lry="2204"><!-- zone 11 -->
@@ -547,10 +547,10 @@
          </zone>
 
          <zone corresp="#zone_13a" ulx="545" uly="2209" lrx="2212" lry="2528"><!-- zone 13a -->
-            <line>(EFTER PERiODEN i NiNNANS ATELJÉ 1934 - 1936 FLYTTAR </line>
-            <line>SiRi ÅTER TILL "LiLLSTUGAN" = SiSTA HALVÅRET 1936. FÅR</line>
-            <line>DENNA HÖST ETT LiTET RESESTiPENDiUM TiLL PARiS - - </line>
-            <line>ÅTERVÄNDER TiLL SVERiGE OCH LiLLSTUGAN VÅREN 1937. -OBS,</line>
+            <line>(EFTER PERIODEN I NINNANS ATELJÉ 1934 - 1936 FLYTTAR </line>
+            <line>SIRI ÅTER TILL "LILLSTUGAN" = SISTA HALVÅRET 1936. FÅR</line>
+            <line>DENNA HÖST ETT LITET RESESTIPENDIUM TILL PARIS - - </line>
+            <line>ÅTERVÄNDER TILL SVERIGE OCH LILLSTUGAN VÅREN 1937. -OBS,</line>
          </zone>
 
          <zone corresp="#zone_13b" ulx="521" uly="2545" lrx="1812" lry="2904"><!-- zone 13b -->
@@ -575,8 +575,8 @@
          </zone>
 
          <zone corresp="#zone_15" ulx="549" uly="2909" lrx="2096" lry="3296"><!-- zone 15 -->
-            <line>"ETT ARKiTEKTONiSKT FORMBYGGANDE MÅLERi" (OCH DiTO</line>
-            <line>TECKNiNGAR) DOMiNERAR UNDER DESSA TVÅ ÅR 1936-1938.</line>
+            <line>"ETT ARKITEKTONISKT FORMBYGGANDE MÅLERI" (OCH DITO</line>
+            <line>TECKNINGAR) DOMINERAR UNDER DESSA TVÅ ÅR 1936-1938.</line>
             <line>(OBS: Borta är "inåtvändheten" och "ljus - rum"-</line>
             <line>mystiken från Ninnans stora Ateljé 1934- 36.)</line>
          </zone>
